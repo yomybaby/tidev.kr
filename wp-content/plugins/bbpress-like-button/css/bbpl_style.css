@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+div.bbpl_button_wrapper{
+    float:right;
+    margin-left:10px;
+}
+a.bbpl_button span{display:none;}
+a.bbpl_button {
+    display:block;
+    height: 20px;
+    width: 20px;
+    float:left;
+    background: url('../img/thumbs_up_20_20.png') no-repeat;
+}
+a.bbpl_button.liked {opacity: 0.3;}
+a.bbpl_button.like-loading{background: url('../img/ajax-loader.gif') no-repeat;}
+span.bbpl_number{float:left; color: #093; font-size: 80%; margin-left: 5px;}
+
+.hide{display: none; opacity: 0;} 
+
+.tooltip {
+    display:none;
+    background: #FFF;
+    border: 1px solid #E4E4E4;
+    font-size:12px;
+    padding: 0 5px;
+    color:#666;
+    margin-left: 5px;
+}
+span.who_liked{
+    cursor: pointer;
+}

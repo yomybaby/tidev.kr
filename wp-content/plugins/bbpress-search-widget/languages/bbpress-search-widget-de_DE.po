@@ -1,0 +1,485 @@
+# This German Language File: Copyright (C) 2011-2013 by David Decker of deckerweb.de & genesisthemes.de
+# This file is distributed under the same license as the bbPress Search Widget Plugin package.
+#
+# Weitere deutsche Sprachdateien fuer bbPress Plugin und WordPress sind hier zu finden:
+# --> http://deckerweb.de/sprachdateien/
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress Search Widget v2.0.0\n"
+"Report-Msgid-Bugs-To: http://deckerweb.de/kontakt/\n"
+"POT-Creation-Date: 2012-05-23 18:28+0100\n"
+"PO-Revision-Date: 2013-05-02 00:45+0100\n"
+"Last-Translator: David Decker <deckerweb.mobil@googlemail.com>\n"
+"Language-Team: DECKERWEB -- http://deckerweb.de/kontakt/\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ bbpress-search-widget
+#. translators: plugin header field 'Name'
+#: bbpress-search-widget.php:0 bbpress-search-widget.php:103
+#: bbpress-search-widget.php:112 includes/bbpsw-admin.php:160
+#: includes/bbpsw-admin.php:189 includes/bbpsw-widget-search.php:310
+#: includes/bbpsw-widget-search.php:323
+msgid "bbPress Search Widget"
+msgstr "bbPress Such-Widget"
+
+# @ bbpress-search-widget
+#. translators: plugin header field 'PluginURI'
+#: bbpress-search-widget.php:0
+msgid "http://genesisthemes.de/en/wp-plugins/bbpress-search-widget/"
+msgstr "http://genesisthemes.de/plugins/bbpress-search-widget/"
+
+# @ bbpress-search-widget
+#. translators: plugin header field 'Author'
+#: bbpress-search-widget.php:0
+msgid "David Decker - DECKERWEB"
+msgstr "David Decker - DECKERWEB.de"
+
+# @ bbpress-search-widget
+#. translators: plugin header field 'AuthorURI'
+#: bbpress-search-widget.php:0
+msgid "http://deckerweb.de/"
+msgstr "http://deckerweb.de/"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:64
+msgid "Go to the Widgets settings page"
+msgstr "Zur Widgets-Einstellungen Seite ..."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:65
+msgid "Widgets"
+msgstr "Widgets"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:100 includes/bbpsw-admin.php:233
+msgid "FAQ"
+msgstr "FAQ - Häufige Fragen"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:102 includes/bbpsw-admin.php:233
+msgid "Support"
+msgstr "Hilfe &amp; Unterstützung (Support)"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:106 includes/bbpsw-admin.php:233
+msgid "Donate"
+msgstr "Spenden"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-shortcode-search.php:48 includes/bbpsw-widget-search.php:340
+#: includes/bbpsw-widget-search.php:394 includes/bbpsw-widget-search.php:499
+msgid "Search"
+msgstr "Suchen"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:364
+msgid "Title:"
+msgstr "Titel:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:44
+msgid ""
+"Search box for the bbPress 2.x forum plugin. Search in forum topics and "
+"replies only. (No mix up with regular WordPress search!)"
+msgstr ""
+"Suchformular für das bbPress 2.x Forum-Plugin. Suche beschränkt auf Foren-"
+"Themen und Antworten. (Kein Vermischen mit der regulären WordPress-Suche!)"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:393
+msgid "Optional intro text:"
+msgstr "Optionaler Intro-Text:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:498
+msgid "Optional outro text:"
+msgstr "Optionaler Outro-Text:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:104 includes/bbpsw-admin.php:233
+msgid "Translations"
+msgstr "Übersetzungen"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:192
+#, php-format
+msgid "Added Widget by the plugin: %s"
+msgstr "Hinzugefügtes Widget durch das Plugin: %s"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:204
+msgid "Topic"
+msgstr "Thema"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:205
+msgid "Reply"
+msgstr "Antwort (Beiträge zu Themen)"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:207
+msgid ""
+"Please note: This plugin does not mix up its displayed search results with "
+"WordPress built-in search. It is limited to the bbPress forum post types. "
+"For enhanced styling of the widget and/or the search results please have a "
+"look on the FAQ page linked below."
+msgstr ""
+"Bitte beachten: Dieses Plugin vermischt die angezeigten Ergebnisse nicht mit "
+"der regulären WordPress-Suche. Es ist beschränkt auf die bbPress Foren-"
+"Inhaltstypen. Für erweitertes/ angepasstes Styling des Widgets und/ oder der "
+"Sucherergebnisse bitte die FAQ-Seite (Häufige Fragen) unten beachten."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:232
+msgid "Important plugin links:"
+msgstr "Wichtige Plugin-Links:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:233
+msgid "Plugin Homepage"
+msgstr "Plugin-Webseite"
+
+# @ bbpress-search-widget
+#. translators: plugin header field 'Version'
+#: bbpress-search-widget.php:0
+msgid "2.0.0"
+msgstr "2.0.0"
+
+# @ bbpress-search-widget
+#: bbpress-search-widget.php:102
+#, php-format
+msgid ""
+"Sorry, you cannot use the %1$s plugin unless you have installed the latest "
+"version of the %2$sbbPress Forum Plugin%3$s (at least %4$s)."
+msgstr ""
+"Hinweis: Das %1$s Plugin kann nur verwendet werden, wenn die neueste Version "
+"des %2$sbbPress Forum-Plugins%3$s installiert ist (mindestens Version %4$s)."
+
+# @ bbpress-search-widget
+#: bbpress-search-widget.php:112 includes/bbpsw-admin.php:189
+msgid "Plugin"
+msgstr "Plugin"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:194
+msgid ""
+"All search form relevent strings, for example the search button, can easily "
+"be changed."
+msgstr ""
+"Alle relevanten Strings für das Suchformular, zum Beispiel der Absenden-"
+"Button, können einfach geändert werden."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:196
+#, php-format
+msgid ""
+"Also, the widget comes lots of visibility options so you can setup it really "
+"fast. This should work for most use cases. However, if you still need more, "
+"use plugins like %1$s or %2$s (then leave all options unchecked and set "
+"visibility to %3$s)."
+msgstr ""
+"Außerdem verfügt das Widget über mehrere Anzeigeoptionen, damit man es "
+"schneller einrichten &amp; verwenden kann. Dies sollte für die meisten "
+"Anwendungsfälle ausreichen. Werden dennoch mehr Optionen benötigt, einfach "
+"Plugins wie %1$s oder %2$s verwenden (in diesem Falle alle Optionen "
+"deaktiviert lassen und die Anzeige auf %3$s festlegen)."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:199 includes/bbpsw-widget-search.php:436
+msgid "Global (default)"
+msgstr "Global (Standard)"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:202
+#, php-format
+msgid ""
+"It searches only in the bbPress specific post types %1$s, %2$s and %3$s and "
+"outputs the results formatted like the other regular views of bbPress."
+msgstr ""
+"Es wird nur in den Inhaltstypen (Post Types) %1$s, %2$s und %3$s des Forums "
+"gesucht. Die Suchergebnisse werden in der Regel so formatiert wie die "
+"anderen regulären Ansichten von bbPress."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:203
+msgid "Forum"
+msgstr "Forum"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:213
+msgid "Supporting the following parameters"
+msgstr "Unterstützt werden die folgenden Parameter"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:214
+msgid "Label text before the input field"
+msgstr "Beschriftung bzw. Text vor dem Sucheingabefeld"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:215
+msgid "Input field placeholder text"
+msgstr "Platzhaltertext für das Sucheingabefeld"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:216
+msgid "Submit button text"
+msgstr "Absenden Buttontext"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:217
+#, php-format
+msgid "Can be a custom class, added to the wrapper %s container"
+msgstr ""
+"Kann eine benutzerdefinierte CSS-Klasse sein, welche dem umschließenden %s "
+"Container (Wrapper) hinzugefügt wird"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:253
+msgid "More about the plugin author"
+msgstr "Mehr über den Plugin-Autor"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:254
+msgid "Social:"
+msgstr "Vernetzen:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-shortcode-search.php:46 includes/bbpsw-widget-search.php:338
+msgid "Search Forums, Topics, Replies for:"
+msgstr "In Foren, Themen, Antworten suchen nach:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-shortcode-search.php:47 includes/bbpsw-widget-search.php:339
+msgid "Search Forums, Topics, Replies&#x2026;"
+msgstr "Foren, Themen, Antworten durchsuchen&#x2026;"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:295
+#, php-format
+msgid "This widget needs a newer version of the base plugin %s."
+msgstr "Dieses Widget benötigt eine neuere Version des Basis-Plugins %s."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:322
+#, php-format
+msgid "If you would like to continue to use the %s functionality, please %s."
+msgstr ""
+"Wenn Sie das die Funktionalität von %s weiterhin einsetzen wollen, sollten "
+"Sie %s."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:371
+msgid "Optional Title URL:"
+msgstr "Optionale Titel-URL:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:379
+msgid "Open the URL in a new window/ tab?"
+msgstr "Die URL in neuem Fenster/ Tab öffnen?"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:386
+msgid "Do not display the Title?"
+msgstr "Titel nicht anzeigen?"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:394 includes/bbpsw-widget-search.php:499
+#, php-format
+msgid "Add some additional %s info. NOTE: Just leave blank to not use at all."
+msgstr ""
+"Einige Zusatzinfos zu %s anzeigen. HINWEIS: Einfach leer lassen, um das Feld "
+"nicht zu verwenden."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:407
+msgid "Label string before search input field:"
+msgstr "Beschriftung/ Text vor dem Sucheingabefeld:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:409 includes/bbpsw-widget-search.php:417
+msgid "NOTE: Leave empty to not use/ display this string!"
+msgstr "HINWEIS: Leer lassen, um dies nicht zu verwenden!"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:415
+msgid "Placeholder string for search input field:"
+msgstr "Platzhaltertext für das Sucheingabefeld:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:423
+msgid "Search button string:"
+msgstr "Suchen-/ Absenden-Buttontext:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:425
+msgid "NOTE: Displaying may depend on your theme settings/ styles."
+msgstr "HINWEIS: Anzeige kann von den Stilen des Themes abhängen."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:433
+msgid "Where to display this widget?"
+msgstr "Wo soll dieses Widget erscheinen?"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:440
+msgid "All bbPress Instances"
+msgstr "Alle Instanzen von bbPress 2.3+"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:444 includes/bbpsw-widget-search.php:446
+#: includes/bbpsw-widget-search.php:464 includes/bbpsw-widget-search.php:466
+#, php-format
+msgid "Single %s"
+msgstr "Einzel-%s"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:444 includes/bbpsw-widget-search.php:452
+msgid "Forums"
+msgstr "Foren"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:446 includes/bbpsw-widget-search.php:454
+msgid "Topics"
+msgstr "Themen"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:448
+msgid "Both, Single Forums & Topics"
+msgstr "Beide, Einzel-Foren u. -Themen"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:452 includes/bbpsw-widget-search.php:454
+#, php-format
+msgid "%s Archives"
+msgstr "%s-Archive"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:456
+msgid "Both, Forums & Topics Archives"
+msgstr "Beide, Foren- u. Themen-Archive"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:460
+msgid "Topics Taxonomies"
+msgstr "Themen-Taxonomien"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:464
+msgid "Posts"
+msgstr "Beiträge"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:466
+msgid "Pages"
+msgstr "Seiten"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:468
+msgid "Both, Single Posts & Pages"
+msgstr "Beide, Einzel-Beiträge u. -Seiten"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:477
+msgid "Not displaying on Forums base (start)?"
+msgstr "Nicht auf Foren-Startseite (Basis) anzeigen?"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:484
+msgid "Not displaying when on a bbPress search results page?"
+msgstr "Nicht bei bbPress-eigenen Suchergebnisseiten anzeigen?"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:309
+#, php-format
+msgid ""
+"If you would like to continue to use the %s functionality, please have a "
+"site administrator %s."
+msgstr ""
+"Wenn Sie das die Funktionalität von %s ẁeiterhin einsetzen wollen, sollte "
+"ein Administrator dieser Webseite das %s."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:402
+msgid "Search form"
+msgstr "Suchformular"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widget-search.php:491
+msgid "Only displaying for logged in users?"
+msgstr "Nur für angemeldete Benutzer anzeigen?"
+
+# @ bbpress-search-widget
+#. translators: plugin header field 'Description'
+#: bbpress-search-widget.php:0
+msgid ""
+"Extended search widget for bbPress 2.3+, plus Forum search Shortcode, plus "
+"widgetized not found content area for Form search 'no results'."
+msgstr ""
+"Erweitertes Such-Widget für bbPress 2.3 oder höher. Außerdem mit Shortcode "
+"für Forensuche, plus einem Widget-Inhaltsbereich falls die Forensuche keine "
+"Treffer ergibt."
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:211
+#, php-format
+msgid "Provided Shortcode by the plugin: %s"
+msgstr "Verfügbarer Shortcode des Plugins: %s"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:223
+#, php-format
+msgid "Widgetized content area for %s forum search results:"
+msgstr "Widget-Inhaltsbereich für %s Situationen bei der Forensuche:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:223
+msgid "Not found"
+msgstr "Nichts gefunden"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:225
+msgid "Registered widget area, only if bbPress is active:"
+msgstr "Registrierter Widget-Bereich, nur wenn bbPress aktiv ist:"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:225 includes/bbpsw-widgetized-noresults.php:42
+msgid "bbPress: Forum Search No Results"
+msgstr "bbPress: Forensuche keine Treffer"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:226
+#, php-format
+msgid ""
+"Actually used on the frontend, only if there are %s widgets in this area!"
+msgstr ""
+"Wird nur in der Besucheransicht (Frontend) verwendet, falls keine %s Widgets "
+"in diesem Bereich sind!"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:226
+msgid "active"
+msgstr "aktiven"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-admin.php:192 includes/bbpsw-widget-search.php:56
+msgid "bbPress: Forum Search Extended"
+msgstr "bbPress: Forensuche erweitert"
+
+# @ bbpress-search-widget
+#: includes/bbpsw-widgetized-noresults.php:44
+msgid ""
+"Only for bbPress 2.3+: Widgetized content area if there are no forum search "
+"results."
+msgstr ""
+"Nur für bbPress 2.3+: Inhaltsbereich für Widgets, falls es keine Treffer bei "
+"der Forensuche gibt."

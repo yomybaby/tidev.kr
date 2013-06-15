@@ -1,0 +1,152 @@
+/********************FRONT END CSS START***********************/
+.smart-post-list-main {
+    width: 100%;
+}
+
+.smart-post-list-main .smart-post-list-single-container {
+	float: left;
+}
+
+.smart-post-list-main {
+    padding: 10px 0 0;
+}
+
+.smart-post-list-main img {
+	float: left;
+	margin-right: 5px;
+}
+
+a.smart-post-list-title,
+a.smart-post-list-title:active,
+a.smart-post-list-title:visited {
+    line-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.smart-post-list-main p {
+    margin: 5px 0;
+    padding: 0;
+}
+
+.smart-post-list-main ,
+.smart-post-list-main li {
+	list-style: none;
+	float: left;
+	/*width: 100%;*/
+
+}
+
+.smart-post-list-main li {
+    margin: 0 0 5px;
+}
+
+.smart-post-list-main .image-top-of-excerpt {
+	float: left;
+	*float: none; /*IE7 hack*/
+}
+
+.smart-post-list-main .text-top-of-excerpt {
+	float: left;
+	*float: none; /*IE7 hack*/
+}
+
+.smart-post-list-main .image-left-of-excerpt {
+	float: left;
+	
+}
+
+.smart-post-list-main .text-left-of-excerpt {
+	display: table-row;
+	*display: inline-block; /*IE7 fix*/
+}
+
+.smart-post-list-main .image-right-of-excerpt {
+	float: right;
+	display: inline;
+}
+
+.smart-post-list-main .image-right-of-excerpt img {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.smart-post-list-main .text-right-of-excerpt {
+	display: table-row;
+	*display: inline-block; /*IE7 fix*/
+}
+
+/* FRONT END CUSTOM CSS */
+
+/*Custom style for the witget's container*/
+.smart-post-list {
+
+}
+
+/*Custom style for the witget's title*/
+.smart-post-list h3.widget-title {
+
+}
+
+/*Custom style for single post container in the list of posts*/
+.smart-post-list-main .smart-post-list-single-container {
+
+}
+
+/*Custom style for the post's image*/
+.smart-post-list-main .smart-post-list-image {
+	
+}
+
+/*Custom style for post's title*/
+a.smart-post-list-title,
+a.smart-post-list-title:active,
+a.smart-post-list-title:visited {
+
+}
+
+a.smart-post-list-title:hover {
+
+}
+
+/*Custom style for post's date*/
+.smart-post-list-main .smart-post-list-date {
+
+}
+
+/*Custom style for post's comments*/
+.smart-post-list-main .smart-post-list-comments {
+
+}
+
+/*Custom style for post's paragraphs*/
+.smart-post-list-main p {
+
+}
+
+.smart-post-list-single-container .text-top-of-excerpt p,
+.smart-post-list-single-container .image-top-of-excerpt a {
+	margin: 0 15px 0 0;
+}
+/********************FRONT END CSS END***********************/
+
+/********************ADMIN CSS START***********************/
+.checklist {
+    border: 1px solid #CCCCCC;
+    height: 10em;
+    list-style: none outside none;
+    overflow: auto;
+    width: 20em;
+}
+
+.checklist li {
+    background: none repeat scroll 0 0;
+    padding-left: 0;
+}
+
+.checklist label {
+    display: block;
+    padding: 0 0.2em 0 25px;
+    text-indent: -25px;
+}
+/********************ADMIN CSS END***********************/

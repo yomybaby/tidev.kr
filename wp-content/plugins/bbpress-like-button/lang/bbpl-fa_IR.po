@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress Like Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-13 11:23+0100\n"
+"PO-Revision-Date: 2012-09-27 10:44+0330\n"
+"Last-Translator: Mortaza Nazari <namo352@gmail.com>\n"
+"Language-Team: jordiplana.com <hi@jordiplana.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../bbpress-like.php:55
+msgid "Likes"
+msgstr "تشکرات"
+
+#: ../bbpress-like.php:58
+msgid "Likes logs"
+msgstr "گزارش های تشکر"
+
+#: ../bbpress-like.php:59
+msgid "Likes stadistics"
+msgstr "وضعیت تشکر ها"
+
+#: ../bbpress-like.php:187
+msgid "This post was already liked by this user"
+msgstr "این مطلب ممکن هست تشکر شده باشد توسط این کاربر."
+
+#: ../bbpress-like.php:191
+msgid "An error ocurred: "
+msgstr "خطایی رخ داد"
+
+#: ../bbpress-like.php:191
+msgid "Liked successfully"
+msgstr "تشکر انجام شد"
+
+#: ../bbpress-like.php:202
+msgid "and"
+msgstr "و"
+
+#: ../bbpress-like.php:202
+msgid "more people"
+msgstr "دیگر مردمان"
+
+#: ../bbpress-like.php:257
+#: ../json_logs.php:54
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ../bbpress-like.php:259
+#: ../json_logs.php:54
+msgid "View"
+msgstr "نمایش"
+
+#: ../bbpress-like.php:259
+msgid "by"
+msgstr "توسط"
+
+#: ../bbpress-like.php:259
+msgid "liked this"
+msgstr "تشکر شده از این"
+
+#: ../bbpress-like.php:259
+#: ../bbpress-like.php:278
+#: ../bbpress-like.php:298
+msgid "likes"
+msgstr "تشکر ها"
+
+#: ../bbpress-like.php:263
+#: ../bbpress-like.php:282
+#: ../bbpress-like.php:302
+#: ../bbpress-like.php:380
+msgid "Sorry! Nobody has liked any post or reply yet..."
+msgstr "با عرض پوزش،هیچ کس از هیچ پست یا پاسخی تشکر نکرده است."
+
+#: ../bbpress-like.php:318
+msgid "You liked this"
+msgstr "شما تشکر کرده اید از این"
+
+#: ../bbpress-like.php:318
+msgid "Like this"
+msgstr "تشکر از این"
+
+#: ../bbpress-like.php:331
+#: ../bbpress-like.php:343
+msgid "Likes Options"
+msgstr "تنظیمات تشکر"
+
+#: ../bbpress-like.php:346
+msgid "Most liked users (admins included)"
+msgstr "بیشترین کاربران تشکر شده (بغیر از مدیران)"
+
+#: ../bbpress-like.php:347
+#: ../bbpress-like.php:351
+msgid "Top 10 most liked users."
+msgstr "ده کاربر برتر تشکر شده"
+
+#: ../bbpress-like.php:350
+msgid "Most liked users (admins excluded)"
+msgstr "بیشترین کاربرانی که تشکر شده اند(بغیر از مدیران)"
+
+#: ../bbpress-like.php:354
+msgid "Most liking users"
+msgstr "بالاترین تشکر کننده ها"
+
+#: ../bbpress-like.php:355
+msgid "Top 10 users who most use Like button."
+msgstr "ده کاربری که بیشتر تشکر شده اند"
+
+#: ../bbpress-like.php:358
+msgid "Most liked posts"
+msgstr "بیشترین مطالب تشکر شده"
+
+#: ../bbpress-like.php:359
+msgid "Top 10 posts liked."
+msgstr "10 مطلب پر طرفدار"
+
+#: ../bbpress-like.php:368
+msgid "Likes Logs"
+msgstr "گزارشات تشکر"
+
+#: ../bbpress-like.php:385
+msgid "ID"
+msgstr "شناسه"
+
+#: ../bbpress-like.php:386
+msgid "Date"
+msgstr "تاریخ"
+
+#: ../bbpress-like.php:387
+msgid "User"
+msgstr "کاربر"
+
+#: ../bbpress-like.php:388
+msgid "Post/Reply"
+msgstr "مطلب/پاسخ"
+
+#: ../bbpress-like.php:389
+msgid "Action"
+msgstr "عملیات"
+
+#: ../bbpress-like.php:390
+msgid "Delete like"
+msgstr "حذف تشکر"
+

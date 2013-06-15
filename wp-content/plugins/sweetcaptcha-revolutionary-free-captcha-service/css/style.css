@@ -1,0 +1,182 @@
+.wrap #icon-options-sweetcaptcha {
+	background: url("../images/SweetCaptcha_logo-128x64.png") no-repeat scroll left top transparent;
+  background-size:128px 66px;
+	float: left;
+	height: 66px;
+	margin: 0;
+	width: 128px;
+}
+
+#swtcptcf_contact_form input.text, 
+#swtcptcf_contact_form textarea,
+#swtcptcf_contact_message, 
+#swtcptcf_contact_name, 
+#swtcptcf_contact_email,
+#swtcptcf_contact_subject {
+	width:324px;
+}
+#swtcptcf_contact_form div.error-form {
+  text-align: left; color: red;  
+}
+#swtcptcf_contact_form div.input {
+  text-align: left;
+  margin-bottom: 11px;
+  border: 0px solid red;
+}
+#swtcptcf_contact_form div.input .text {
+  padding: 2px 2px 2px 2px;
+}
+
+#swtcptcf_contact_form div.input-label {
+  text-align: left;
+  padding-bottom: 0px;
+  border: 0px solid green;
+}
+/*
+.admin-menu-item {
+  background: no-repeat 0 0 url(../images/sc-menu.png);
+  padding-left: 20px;
+}
+*/
+#adminmenu #toplevel_page_bws_plugins div.wp-menu-image
+{
+	background: url("../images/icon_16.png") no-repeat scroll center center transparent;
+}
+.admin-color-classic #adminmenu #toplevel_page_bws_plugins div.wp-menu-image
+{
+	background: url("../images/icon_16_b.png") no-repeat scroll center center transparent;
+}
+#adminmenu #toplevel_page_bws_plugins:hover div.wp-menu-image,#adminmenu #toplevel_page_bws_plugins.wp-has-current-submenu div.wp-menu-image
+{
+	background: url("../images/icon_16_c.png") no-repeat scroll center center transparent;
+}	
+.wrap #icon-options-general.icon32-bws
+{
+	background: url("../images/icon_36.png") no-repeat scroll left top transparent;
+}
+.admin-color-classic .wrap #icon-options-general.icon32-bws
+{
+	background: url("../images/icon_36_b.png") no-repeat scroll left top transparent;
+}
+#toplevel_page_bws_plugins .wp-submenu .wp-first-item, .swtcptcf_hidden
+{
+	display:none;
+}
+.swtcptcf_info {
+	color: rgb(136, 136, 136); 
+	font-size: 10px;
+	clear:both;
+}
+#swtcptcf_contact_attachment {
+	margin-bottom:0;
+}
+#swtcptcf_contact_send_copy, #swtcptcf_attachment, #swtcptcf_send_copy, #swtcptcf_change_label {
+	position:relative;
+	top:2px;
+}
+#swtcptcf_attachment, #swtcptcf_send_copy, #swtcptcf_change_label {
+	position:relative;
+	top:3px;
+}
+#swtcptcf_select_email_user, #swtcptcf_select_email_custom {
+	position:relative;
+	top:5px;
+}
+.swtcptcf_change_label_block input, .swtcptcf_action_after_send_block input {
+	margin: 1px 0;
+}
+
+.swtcptcf_action_after_send_block  input[type="text"] {
+	width:250px;
+}
+
+/*
+.widget-container #swtcptcf_contact_form input.text, 
+.widget-container #swtcptcf_contact_form textarea, 
+.widget-container #swtcptcf_contact_message, 
+.widget-container #swtcptcf_contact_name, 
+.widget-container #swtcptcf_contact_email, 
+.widget-container #swtcptcf_contact_subject,
+.textwidget #swtcptcf_contact_form input.text,
+.textwidget #swtcptcf_contact_form textarea, 
+.textwidget #swtcptcf_contact_message, 
+.textwidgetr #swtcptcf_contact_name, 
+.textwidget #swtcptcf_contact_email, 
+.textwidget #swtcptcf_contact_subject{
+    width: 200px !important;
+}
+
+.form-table td.swtcptcf_display_add_info_block {
+	padding:4px 10px 8px;
+}
+*/
+
+#sweetcaptcha-wrapper {
+  padding-top:10px;
+  clear: both;
+}
+
+.login form select {
+  color: #555;
+  font-weight: 200;
+  font-size: 24px;
+  line-height: 1;
+  width: 100%;
+  padding: 3px;
+  margin-top: 2px;
+  margin-right: 6px;
+  margin-bottom: 16px;
+  border: 1px solid #E5E5E5;
+  background: #FBFBFB;
+  outline: 0;
+}
+
+#login {
+  width: 400px;
+}
+
+#captchi {
+  /*border: 1px solid red;*/
+  width: auto;
+  min-width: 150px !important;
+  max-height: 600px !important;
+  height: auto !important;
+}
+#captchi ul {
+  /*
+  border: 1px solid red;
+  */
+  margin-top: 5px !important;
+}
+#captchi ul li {
+  margin-top: 2px !important;
+  margin-bottom: 2px !important;
+  float: left;
+}
+#captchi div {
+  word-break: keep-all !important;
+  white-space: normal !important;
+  overflow: visible !important;
+}
+#captchi span.holder {
+  display: block;
+  margin: 0  !important;
+  padding: 0 !important;
+  position: relative !important;
+  top: 0px !important;
+  /*
+  border: 1px solid red !important;
+  margin-top: 40px  !important;
+  position: absolute !important;
+  float: right !important;
+  top: 30px;
+  height: 65px !important;
+  background-position: right bottom !important;
+  width: 70px !important;
+  */
+}
+span.error {
+  text-align: left; 
+  color: red;
+  margin-left: 10px;
+}
