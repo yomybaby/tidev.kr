@@ -788,4 +788,61 @@ function bp_dtheme_remove_nojs_body_class() {
 }
 add_action( 'bp_before_header', 'bp_dtheme_remove_nojs_body_class' );
 
+
+
+add_action( 'bbp_kses_allowed_tags','pyg_kses_allowed_tags',999,1);
+function pyg_kses_allowed_tags($input){
+	return array(
+
+			// paragraphs
+		'p' => array(
+			'style'     => array()
+		),
+		'span' => array(
+			'style'     => array()
+		),
+
+		// Links
+		'a' => array(
+			'href'     => array(),
+			'title'    => array(),
+			'rel'      => array()
+		),
+
+		// Quotes
+		'blockquote'   => array(
+			'cite'     => array()
+		),
+
+		// Code
+		'code'         => array(),
+		'pre'          => array(),
+
+		// Formatting
+		'em'           => array(),
+		'strong'       => array(),
+		'del'          => array(
+			'datetime' => true,
+		),
+
+		// Lists
+		'ul'           => array(),
+		'ol'           => array(
+			'start'    => true,
+		),
+		'li'           => array(),
+
+		// Images
+		'img'          => array(
+			'src'      => true,
+			'border'   => true,
+			'alt'      => true,
+			'height'   => true,
+			'width'    => true,
+		)
+		
+		
+	);
+}
+
 ?>
