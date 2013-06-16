@@ -209,7 +209,7 @@ class Markdownify {
     'area',
     'object',
     'param',
-    'iframe',
+    //'iframe',
   );
   /**
    * Markdown indents which could be wrapped
