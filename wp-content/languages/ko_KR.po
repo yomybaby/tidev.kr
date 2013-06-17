@@ -2,13 +2,16 @@
 # This file is distributed under the same license as the 3.5.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-01-30 06:56:00+0000\n"
+"PO-Revision-Date: 2013-06-17 14:17+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/0.1\n"
+"X-Generator: Poedit 1.5.5\n"
 "Project-Id-Version: 3.5.x\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 
 #: wp-login.php:492
 msgid "New password"
@@ -19,8 +22,14 @@ msgid "Confirm new password"
 msgstr "새 비밀번호 확인"
 
 #: wp-login.php:501
-msgid "Hint: The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers and symbols like ! \" ? $ % ^ &amp; )."
-msgstr "힌트: 비밀번호는 적어도 7자 이상이어야 합니다. 더 강한 비밀번호를 만드려면, 대소문자를 섞어서 적거나 숫자, ! \" ? & % ^ &amp; ) 등의 특수문자를 사용하십시오."
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+"힌트: 비밀번호는 적어도 7자 이상이어야 합니다. 더 강한 비밀번호를 만드려면, "
+"대소문자를 섞어서 적거나 숫자, ! \" ? & % ^ &amp; ) 등의 특수문자를 사용하십"
+"시오."
 
 #: wp-login.php:544
 msgid "Registration Form"
@@ -47,8 +56,14 @@ msgid "You have logged in successfully."
 msgstr "성공적으로 로그인하였습니다."
 
 #: wp-login.php:651
-msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
-msgstr "<strong>오류</strong>: 브라우저에서 쿠키가 금지되었거나 쿠키를 지원하지 않습니다. 워드프레스를 사용하려면 <a href='http://www.google.com/cookies.html'>쿠키를  사용</a>해야 합니다."
+msgid ""
+"<strong>ERROR</strong>: Cookies are blocked or not supported by your "
+"browser. You must <a href='http://www.google.com/cookies.html'>enable "
+"cookies</a> to use WordPress."
+msgstr ""
+"<strong>오류</strong>: 브라우저에서 쿠키가 금지되었거나 쿠키를 지원하지 않습"
+"니다. 워드프레스를 사용하려면 <a href='http://www.google.com/cookies.html'>쿠"
+"키를  사용</a>해야 합니다."
 
 #: wp-login.php:655
 msgid "You are now logged out."
@@ -75,8 +90,12 @@ msgid "Your session has expired. Please log-in again."
 msgstr "세션이 만료되었습니다. 다시 로그인하세요."
 
 #: wp-login.php:667
-msgid "<strong>You have successfully updated WordPress!</strong> Please log back in to experience the awesomeness."
-msgstr "<strong>워드프레스를 성공적으로 업데이트 했습니다!</strong> 굉장한 것을 경험하려면 다시 로그인해주세요."
+msgid ""
+"<strong>You have successfully updated WordPress!</strong> Please log back in "
+"to experience the awesomeness."
+msgstr ""
+"<strong>워드프레스를 성공적으로 업데이트 했습니다!</strong> 굉장한 것을 경험"
+"하려면 다시 로그인해주세요."
 
 #: wp-mail.php:14
 msgid "This action has been disabled by the administrator."
@@ -131,8 +150,12 @@ msgid "Your address will be %s."
 msgstr "주소는 %s가 될 것입니다."
 
 #: wp-signup.php:83
-msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
-msgstr "최소한 4글자 이상이어야하고 글자와 숫자만 가능합니다. 변경될 수 없으니 주의해서 선택하세요."
+msgid ""
+"Must be at least 4 characters, letters and numbers only. It cannot be "
+"changed, so choose carefully!"
+msgstr ""
+"최소한 4글자 이상이어야하고 글자와 숫자만 가능합니다. 변경될 수 없으니 주의해"
+"서 선택하세요."
 
 #: wp-signup.php:88
 msgid "Site Title:"
@@ -163,8 +186,12 @@ msgid "Email&nbsp;Address:"
 msgstr "이메일l&nbsp;주소:"
 
 #: wp-signup.php:137
-msgid "We send your registration email to this address. (Double-check your email address before continuing.)"
-msgstr "이 주소로 가입 이메일을 보냅니다. (계속하기 전에 다시 한번 이메일 주소를 확인하세요.)"
+msgid ""
+"We send your registration email to this address. (Double-check your email "
+"address before continuing.)"
+msgstr ""
+"이 주소로 가입 이메일을 보냅니다. (계속하기 전에 다시 한번 이메일 주소를 확인"
+"하세요.)"
 
 #: wp-signup.php:163
 msgid "Get <em>another</em> %s site in seconds"
@@ -175,16 +202,27 @@ msgid "There was a problem, please correct the form below and try again."
 msgstr "문제가 있습니다. 아래 양식을 수정하고 다시 시도하세요."
 
 #: wp-signup.php:169
-msgid "Welcome back, %s. By filling out the form below, you can <strong>add another site to your account</strong>. There is no limit to the number of sites you can have, so create to your heart&#8217;s content, but write responsibly!"
-msgstr "%s님 다시 방문해 주서서 감사합니다. 아래의 양식을 작성해 주시면 <strong>귀하의 계정에 다른 사이트를 추가할 수</strong> 있습니다. 개설할 수 있는 사이트는 제한이 없으며 원하는대로 사이트를 만들 수 있습니다. 하지만 책임감을 갖고 글을 올려주세요."
+msgid ""
+"Welcome back, %s. By filling out the form below, you can <strong>add another "
+"site to your account</strong>. There is no limit to the number of sites you "
+"can have, so create to your heart&#8217;s content, but write responsibly!"
+msgstr ""
+"%s님 다시 방문해 주서서 감사합니다. 아래의 양식을 작성해 주시면 <strong>귀하"
+"의 계정에 다른 사이트를 추가할 수</strong> 있습니다. 개설할 수 있는 사이트는 "
+"제한이 없으며 원하는대로 사이트를 만들 수 있습니다. 하지만 책임감을 갖고 글"
+"을 올려주세요."
 
 #: wp-signup.php:175
 msgid "Sites you are already a member of:"
 msgstr "이미 멤버인 사이트들:"
 
 #: wp-signup.php:184
-msgid "If you&#8217;re not going to use a great site domain, leave it for a new user. Now have at it!"
-msgstr "만약 좋은 사이트 도메인을 사용하지 않을거라면, 새로운 사용자를 위해 놔두세요. 지금 그걸 가지세요!"
+msgid ""
+"If you&#8217;re not going to use a great site domain, leave it for a new "
+"user. Now have at it!"
+msgstr ""
+"만약 좋은 사이트 도메인을 사용하지 않을거라면, 새로운 사용자를 위해 놔두세"
+"요. 지금 그걸 가지세요!"
 
 #: wp-signup.php:189
 msgid "Create Site"
@@ -195,8 +233,12 @@ msgid "The site %s is yours."
 msgstr "사이트 %s 은(는) 당신 것입니다."
 
 #: wp-signup.php:221
-msgid "<a href=\"http://%1$s\">http://%2$s</a> is your new site. <a href=\"%3$s\">Log in</a> as &#8220;%4$s&#8221; using your existing password."
-msgstr "<a href=\"http://%1$s\">http://%2$s</a>은 새 사이트입니다. 기존의 비밀번호를 사용하여 &#8220;%4$s&#8221;로 <a href=\"%3$s\">로그인</a>하세요 ."
+msgid ""
+"<a href=\"http://%1$s\">http://%2$s</a> is your new site. <a href=\"%3$s"
+"\">Log in</a> as &#8220;%4$s&#8221; using your existing password."
+msgstr ""
+"<a href=\"http://%1$s\">http://%2$s</a>은 새 사이트입니다. 기존의 비밀번호를 "
+"사용하여 &#8220;%4$s&#8221;로 <a href=\"%3$s\">로그인</a>하세요 ."
 
 #: wp-signup.php:243
 msgid "Get your own %s account in seconds"
@@ -219,15 +261,20 @@ msgid "%s is your new username"
 msgstr "%s 은(는) 새로운 사용자명입니다."
 
 #: wp-signup.php:291
-msgid "But, before you can start using your new username, <strong>you must activate it</strong>."
-msgstr "하지만, 새로운 사용자명을 사용하기 전에 <strong>활성화해야 합니다</strong>."
+msgid ""
+"But, before you can start using your new username, <strong>you must activate "
+"it</strong>."
+msgstr ""
+"하지만, 새로운 사용자명을 사용하기 전에 <strong>활성화해야 합니다</strong>."
 
 #: wp-signup.php:292 wp-signup.php:356
 msgid "Check your inbox at <strong>%s</strong> and click the link given."
 msgstr "<strong>%s</strong>의 받은 편지함을 확인하고 주어진 링크를 클릭하세요."
 
 #: wp-signup.php:293
-msgid "If you do not activate your username within two days, you will have to sign up again."
+msgid ""
+"If you do not activate your username within two days, you will have to sign "
+"up again."
 msgstr "2 일 이내에 사용자명을 활성화하지 않으면, 다시 가입해야합니다."
 
 #: wp-signup.php:319
@@ -239,11 +286,15 @@ msgid "Congratulations! Your new site, %s, is almost ready."
 msgstr "축하합니다! 새로운 사이트인 %s 이(가) 거의 준비되었습니다."
 
 #: wp-signup.php:355
-msgid "But, before you can start using your site, <strong>you must activate it</strong>."
+msgid ""
+"But, before you can start using your site, <strong>you must activate it</"
+"strong>."
 msgstr "하지만, 사이트를 사용하기 전에 <strong>활성화해야 합니다</strong>."
 
 #: wp-signup.php:357
-msgid "If you do not activate your site within two days, you will have to sign up again."
+msgid ""
+"If you do not activate your site within two days, you will have to sign up "
+"again."
 msgstr "2 일 이내에 사이트를 활성화하지 않으면, 다시 가입해야합니다."
 
 #: wp-signup.php:358
@@ -251,20 +302,34 @@ msgid "Still waiting for your email?"
 msgstr "여전히 이메일을 기다리고 있습니까?"
 
 #: wp-signup.php:360
-msgid "If you haven&#8217;t received your email yet, there are a number of things you can do:"
+msgid ""
+"If you haven&#8217;t received your email yet, there are a number of things "
+"you can do:"
 msgstr "만약 아직 이메일을 받지 못했다면, 할 수 있는 것들이 있습니다:"
 
 #: wp-signup.php:362
-msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
-msgstr "좀 더 기다려보세요. 우리의 통제를 벗어나 가끔씩 이메일이 늦게 전송될 때가 있습니다."
+msgid ""
+"Wait a little longer. Sometimes delivery of email can be delayed by "
+"processes outside of our control."
+msgstr ""
+"좀 더 기다려보세요. 우리의 통제를 벗어나 가끔씩 이메일이 늦게 전송될 때가 있"
+"습니다."
 
 #: wp-signup.php:363
-msgid "Check the junk or spam folder of your email client. Sometime emails wind up there by mistake."
-msgstr "스팸 편지함을 확인해보세요. 가끔씩 이메일이 그 곳으로 전송되는 경우가 있습니다."
+msgid ""
+"Check the junk or spam folder of your email client. Sometime emails wind up "
+"there by mistake."
+msgstr ""
+"스팸 편지함을 확인해보세요. 가끔씩 이메일이 그 곳으로 전송되는 경우가 있습니"
+"다."
 
 #: wp-signup.php:364
-msgid "Have you entered your email correctly?  You have entered %s, if it&#8217;s incorrect, you will not receive your email."
-msgstr "이메일 주소를 제대로 입력하셨습니까? %s (으)로 입력하셨습니다. 만약 이 주소가 틀렸다면 이메일을 받지 못합니다."
+msgid ""
+"Have you entered your email correctly?  You have entered %s, if it&#8217;s "
+"incorrect, you will not receive your email."
+msgstr ""
+"이메일 주소를 제대로 입력하셨습니까? %s (으)로 입력하셨습니다. 만약 이 주소"
+"가 틀렸다면 이메일을 받지 못합니다."
 
 #: wp-signup.php:379
 msgctxt "Multisite active signup type"
@@ -287,16 +352,24 @@ msgid "user"
 msgstr "사용자"
 
 #: wp-signup.php:385
-msgid "Greetings Site Administrator! You are currently allowing &#8220;%s&#8221; registrations. To change or disable registration go to your <a href=\"%s\">Options page</a>."
-msgstr "안녕하세요, 사이트 관리자님! %s 의 가입을 허용하고 있습니다. 가입을 변경하거나 중지시키려면 <a href=\"%s\">옵션 페이지</a>로 이동하세요."
+msgid ""
+"Greetings Site Administrator! You are currently allowing &#8220;%s&#8221; "
+"registrations. To change or disable registration go to your <a href=\"%s"
+"\">Options page</a>."
+msgstr ""
+"안녕하세요, 사이트 관리자님! %s 의 가입을 허용하고 있습니다. 가입을 변경하거"
+"나 중지시키려면 <a href=\"%s\">옵션 페이지</a>로 이동하세요."
 
 #: wp-signup.php:391
 msgid "Registration has been disabled."
 msgstr "가입이 중지되었습니다."
 
 #: wp-signup.php:394
-msgid "You must first <a href=\"%s\">log in</a>, and then you can create a new site."
-msgstr "먼저 <a href=\"%s\">로그인</a>을 해야 합니다. 그런 후에 새로운 사이트를 생성할 수 있습니다."
+msgid ""
+"You must first <a href=\"%s\">log in</a>, and then you can create a new site."
+msgstr ""
+"먼저 <a href=\"%s\">로그인</a>을 해야 합니다. 그런 후에 새로운 사이트를 생성"
+"할 수 있습니다."
 
 #: wp-signup.php:402
 msgid "User registration has been disabled."
@@ -315,12 +388,19 @@ msgid "You are logged in already. No need to register again!"
 msgstr "이미 로그인했습니다. 다시 등록할 필요가 없습니다!"
 
 #: wp-signup.php:430
-msgid "<p><em>The site you were looking for, <strong>%s</strong> does not exist, but you can create it now!</em></p>"
-msgstr "<p><em>찾는 사이트인 <strong>%s</strong>은(는) 존재하지 않지만 지금 생성할 수 있습니다!</em></p>"
+msgid ""
+"<p><em>The site you were looking for, <strong>%s</strong> does not exist, "
+"but you can create it now!</em></p>"
+msgstr ""
+"<p><em>찾는 사이트인 <strong>%s</strong>은(는) 존재하지 않지만 지금 생성할 "
+"수 있습니다!</em></p>"
 
 #: wp-signup.php:432
-msgid "<p><em>The site you were looking for, <strong>%s</strong>, does not exist.</em></p>"
-msgstr "<p><em>찾는 사이트인 <strong>%s</strong>은(는) 존재하지 않습니다.</em></p>"
+msgid ""
+"<p><em>The site you were looking for, <strong>%s</strong>, does not exist.</"
+"em></p>"
+msgstr ""
+"<p><em>찾는 사이트인 <strong>%s</strong>은(는) 존재하지 않습니다.</em></p>"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:240
 msgid "Learn word"
@@ -582,8 +662,11 @@ msgid "Are you sure you want to clear all contents?"
 msgstr "모든 내용을 지우시겠습니까?"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:327
-msgid "Jump to tool buttons - Alt+Q, Jump to editor - Alt-Z, Jump to element path - Alt-X"
-msgstr "툴 버튼으로 점프 - Alt-Q, 편집기로 점프 - Alt-Z, 요소 경로로 점프 - Alt-X"
+msgid ""
+"Jump to tool buttons - Alt+Q, Jump to editor - Alt-Z, Jump to element path - "
+"Alt-X"
+msgstr ""
+"툴 버튼으로 점프 - Alt-Q, 편집기로 점프 - Alt-Z, 요소 경로로 점프 - Alt-X"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:329
 #: wp-includes/js/tinymce/langs/wp-langs.php:386
@@ -764,11 +847,15 @@ msgid "Open link in a new window"
 msgstr "새 창에서 링크 열기"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:383
-msgid "The URL you entered seems to be an email address, do you want to add the required mailto: prefix?"
+msgid ""
+"The URL you entered seems to be an email address, do you want to add the "
+"required mailto: prefix?"
 msgstr "입력한 URL은 메일주소로 보입니다. mailto: 접두어를 추가하시겠습니까?"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:384
-msgid "The URL you entered seems to external link, do you want to add the required http:// prefix?"
+msgid ""
+"The URL you entered seems to external link, do you want to add the required "
+"http:// prefix?"
 msgstr "입력한 URL은 외부 링크로 보입니다. http:// 접두어를 추가하시겠습니까?"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:385
@@ -1076,7 +1163,9 @@ msgid "QT Src"
 msgstr "QT 소스"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:470
-msgid "Streamed rtsp resources should be added to the QT Src field under the advanced tab."
+msgid ""
+"Streamed rtsp resources should be added to the QT Src field under the "
+"advanced tab."
 msgstr "rtsp 스트림 리소스는 고급 탭의 QT 소스 필드에 추가해야 합니다."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:476
@@ -1350,20 +1439,59 @@ msgid "Rich Editing Basics"
 msgstr "Rich Editing 기본"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:172
-msgid "<em>Rich editing</em>, also called WYSIWYG for What You See Is What You Get, means your text is formatted as you type. The rich editor creates HTML code behind the scenes while you concentrate on writing. Font styles, links and images all appear approximately as they will on the internet."
-msgstr "<em>Rich editing</em>, WYSIWYG(What You See Is What You Get)라고도 불리는 것은 자신이 글이 쓴대로 보여진다는 뜻입니다. Rich editor는 글을 쓰는 동안 HTML 코드를 만듭니다. 모든 글꼴 모양, 링크 그리고 그림은 인터넷에 나타나는 것과 거의 같게 보여집니다."
+msgid ""
+"<em>Rich editing</em>, also called WYSIWYG for What You See Is What You Get, "
+"means your text is formatted as you type. The rich editor creates HTML code "
+"behind the scenes while you concentrate on writing. Font styles, links and "
+"images all appear approximately as they will on the internet."
+msgstr ""
+"<em>Rich editing</em>, WYSIWYG(What You See Is What You Get)라고도 불리는 것"
+"은 자신이 글이 쓴대로 보여진다는 뜻입니다. Rich editor는 글을 쓰는 동안 HTML "
+"코드를 만듭니다. 모든 글꼴 모양, 링크 그리고 그림은 인터넷에 나타나는 것과 거"
+"의 같게 보여집니다."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:173
-msgid "WordPress includes a rich HTML editor that works well in all major web browsers used today. However editing HTML is not the same as typing text. Each web page has two major components: the structure, which is the actual HTML code and is produced by the editor as you type, and the display, that is applied to it by the currently selected WordPress theme and is defined in style.css. WordPress is producing valid XHTML 1.0 which means that inserting multiple line breaks (BR tags) after a paragraph would not produce white space on the web page. The BR tags will be removed as invalid by the internal HTML correcting functions."
-msgstr "워드프레스는 오늘날 모든 메이저 웹브라우저에서 잘 동작하는 rich HTML 편집기를 포함하고 있습니다. 그러나 HTML을 편집하는 것은 텍스트를 입력하는 것과 다릅니다. 모든 웹 페이지는 두가지 큰 요소가 있습니다. 하나는 입력한대로 편집기에 의해 만들어지는 HTML코드와 같은 구조이고 다른 하나는 현재 선택된 워드프레스 테마와 style.css에 정의된 대로 적용되는 표현입니다.  워드프레스는 웹페이지에 공백을 만들지 않기 위해 단락 뒤에 복수의 줄바꿈(BR 태그)를 추가하여 올바른 XHTML 1.0 문서를 만들고 있습니다. 잘못된 BR 태그는 내부적인 HTML 수정함수에 의해 제거될 것입니다."
+msgid ""
+"WordPress includes a rich HTML editor that works well in all major web "
+"browsers used today. However editing HTML is not the same as typing text. "
+"Each web page has two major components: the structure, which is the actual "
+"HTML code and is produced by the editor as you type, and the display, that "
+"is applied to it by the currently selected WordPress theme and is defined in "
+"style.css. WordPress is producing valid XHTML 1.0 which means that inserting "
+"multiple line breaks (BR tags) after a paragraph would not produce white "
+"space on the web page. The BR tags will be removed as invalid by the "
+"internal HTML correcting functions."
+msgstr ""
+"워드프레스는 오늘날 모든 메이저 웹브라우저에서 잘 동작하는 rich HTML 편집기"
+"를 포함하고 있습니다. 그러나 HTML을 편집하는 것은 텍스트를 입력하는 것과 다릅"
+"니다. 모든 웹 페이지는 두가지 큰 요소가 있습니다. 하나는 입력한대로 편집기에 "
+"의해 만들어지는 HTML코드와 같은 구조이고 다른 하나는 현재 선택된 워드프레스 "
+"테마와 style.css에 정의된 대로 적용되는 표현입니다.  워드프레스는 웹페이지에 "
+"공백을 만들지 않기 위해 단락 뒤에 복수의 줄바꿈(BR 태그)를 추가하여 올바른 "
+"XHTML 1.0 문서를 만들고 있습니다. 잘못된 BR 태그는 내부적인 HTML 수정함수에 "
+"의해 제거될 것입니다."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:174
-msgid "While using the editor, most basic keyboard shortcuts work like in any other text editor. For example: Shift+Enter inserts line break, Ctrl+C = copy, Ctrl+X = cut, Ctrl+Z = undo, Ctrl+Y = redo, Ctrl+A = select all, etc. (on Mac use the Command key instead of Ctrl). See the Hotkeys tab for all available keyboard shortcuts."
-msgstr "편집기를 사용하는 동안, 대부분의 기본 키보드 단축키는 다른 텍스트 편집기와 비슷하게 동작합니다. 예를 들어: Shift+Enter는 줄을 띄우고, Ctrl+C = 복사, Ctrl+X = 잘라내기, Ctrl+Z = 실행취소(Undo), Ctrl+Y = 다시하기(redo), Ctrl+B = 굵게, Ctrl+I = 이탤릭체로, Ctrl+U = 밑줄, 등등 (맥에서는 Ctrl대신 애플키를 사용합니다.) 사용가능한 모든 단축키를 보려면 핫키들 탭을 보십시오."
+msgid ""
+"While using the editor, most basic keyboard shortcuts work like in any other "
+"text editor. For example: Shift+Enter inserts line break, Ctrl+C = copy, Ctrl"
+"+X = cut, Ctrl+Z = undo, Ctrl+Y = redo, Ctrl+A = select all, etc. (on Mac "
+"use the Command key instead of Ctrl). See the Hotkeys tab for all available "
+"keyboard shortcuts."
+msgstr ""
+"편집기를 사용하는 동안, 대부분의 기본 키보드 단축키는 다른 텍스트 편집기와 비"
+"슷하게 동작합니다. 예를 들어: Shift+Enter는 줄을 띄우고, Ctrl+C = 복사, Ctrl"
+"+X = 잘라내기, Ctrl+Z = 실행취소(Undo), Ctrl+Y = 다시하기(redo), Ctrl+B = 굵"
+"게, Ctrl+I = 이탤릭체로, Ctrl+U = 밑줄, 등등 (맥에서는 Ctrl대신 애플키를 사용"
+"합니다.) 사용가능한 모든 단축키를 보려면 핫키들 탭을 보십시오."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:175
-msgid "If you do not like the way the rich editor works, you may turn it off from Your Profile submenu, under Users in the admin menu."
-msgstr "Rich editor가 작동하는 것을 원치 않으면, 사용자 메뉴 아래의 저자와 사용자 메뉴에서 끌 수 있습니다."
+msgid ""
+"If you do not like the way the rich editor works, you may turn it off from "
+"Your Profile submenu, under Users in the admin menu."
+msgstr ""
+"Rich editor가 작동하는 것을 원치 않으면, 사용자 메뉴 아래의 저자와 사용자 메"
+"뉴에서 끌 수 있습니다."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:179
 msgid "Advanced Rich Editing"
@@ -1374,40 +1502,90 @@ msgid "Images and Attachments"
 msgstr "이미지와 첨부"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:181
-msgid "There is a button in the editor toolbar for inserting images that are already hosted somewhere on the internet. If you have a URL for an image, click this button and enter the URL in the box which appears."
-msgstr "편집기 툴바에는 인터넷에 이미 올라가 있는 그림을 넣기 위한 버튼이 있습니다. 그림의 URL을 알고 있다면 이 버튼을 누르시고 새 창에서 그 URL을 입력하십시오."
+msgid ""
+"There is a button in the editor toolbar for inserting images that are "
+"already hosted somewhere on the internet. If you have a URL for an image, "
+"click this button and enter the URL in the box which appears."
+msgstr ""
+"편집기 툴바에는 인터넷에 이미 올라가 있는 그림을 넣기 위한 버튼이 있습니다. "
+"그림의 URL을 알고 있다면 이 버튼을 누르시고 새 창에서 그 URL을 입력하십시오."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:182
-msgid "If you need to upload an image or another media file from your computer, you can use the Media Library button above the editor. The media library will attempt to create a thumbnail-sized copy from each uploaded image. To insert your image into the post, first click on the thumbnail to reveal a menu of options. When you have selected the options you like, click \"Insert into Post\" and your image or file will appear in the post you are editing."
-msgstr "컴퓨터에서 그림이나 미디어파일을 올리고자 한다면 편집기 위에 있는 미디어 라이브러리 버튼을 사용할 수 있습니다. 미디어 라이브러리는 모든 업로드된 이미지에서 섬네일 이미지를 만들려고 할 것입니다. 그림을 글에 삽입하려면 옵션 메뉴에 나타나는 섬네일을 클릭하면 됩니다. 원하는 옵션을 선택한 뒤 \"본문에 삽입하기\"를 누르면 이미지나 파일이 편집중인 글에 나타날 것입니다. "
+msgid ""
+"If you need to upload an image or another media file from your computer, you "
+"can use the Media Library button above the editor. The media library will "
+"attempt to create a thumbnail-sized copy from each uploaded image. To insert "
+"your image into the post, first click on the thumbnail to reveal a menu of "
+"options. When you have selected the options you like, click \"Insert into "
+"Post\" and your image or file will appear in the post you are editing."
+msgstr ""
+"컴퓨터에서 그림이나 미디어파일을 올리고자 한다면 편집기 위에 있는 미디어 라이"
+"브러리 버튼을 사용할 수 있습니다. 미디어 라이브러리는 모든 업로드된 이미지에"
+"서 섬네일 이미지를 만들려고 할 것입니다. 그림을 글에 삽입하려면 옵션 메뉴에 "
+"나타나는 섬네일을 클릭하면 됩니다. 원하는 옵션을 선택한 뒤 \"본문에 삽입하기"
+"\"를 누르면 이미지나 파일이 편집중인 글에 나타날 것입니다. "
 
 #: wp-includes/js/tinymce/wp-mce-help.php:183
 msgid "HTML in the Rich Editor"
 msgstr "Rich Editor에서 HTML"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:184
-msgid "Any HTML entered directly into the rich editor will show up as text when the post is viewed. What you see is what you get. When you want to include HTML elements that cannot be generated with the toolbar buttons, you must enter it by hand in the Text editor. Examples are tables and &lt;code&gt;. To do this, click the Text tab and edit the code, then switch back to Visual mode. If the code is valid and understood by the editor, you should see it rendered immediately."
-msgstr "편집기에 직접 적은 HTML은 글이 보여질때 일반 문자와 같이 보입니다. 보는 것이 결과물입니다WYSIWYG). 도구모음 버튼으로 입력할 수 없는 HTML요소를 넣고자 한다면 텍스트 편집기에서 직접 입력해야 합니다. 예를 들면 표나 &lt;code&gt;같은 요소입니다. 이를 넣기 위해서는 텍스트 탭을 클릭하고 코드를 편집하십시오. 그런 다음 비주얼 모드로 전환하세요. 입력한 코드가 올바르고 편집기가 잘 이해를 했다면 즉시 화면에 표시될 것입니다."
+msgid ""
+"Any HTML entered directly into the rich editor will show up as text when the "
+"post is viewed. What you see is what you get. When you want to include HTML "
+"elements that cannot be generated with the toolbar buttons, you must enter "
+"it by hand in the Text editor. Examples are tables and &lt;code&gt;. To do "
+"this, click the Text tab and edit the code, then switch back to Visual mode. "
+"If the code is valid and understood by the editor, you should see it "
+"rendered immediately."
+msgstr ""
+"편집기에 직접 적은 HTML은 글이 보여질때 일반 문자와 같이 보입니다. 보는 것이 "
+"결과물입니다WYSIWYG). 도구모음 버튼으로 입력할 수 없는 HTML요소를 넣고자 한다"
+"면 텍스트 편집기에서 직접 입력해야 합니다. 예를 들면 표나 &lt;code&gt;같은 요"
+"소입니다. 이를 넣기 위해서는 텍스트 탭을 클릭하고 코드를 편집하십시오. 그런 "
+"다음 비주얼 모드로 전환하세요. 입력한 코드가 올바르고 편집기가 잘 이해를 했다"
+"면 즉시 화면에 표시될 것입니다."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:185
 msgid "Pasting in the Rich Editor"
 msgstr "Rich Editor에서 붙여 넣기"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:186
-msgid "When pasting content from another web page the results can be inconsistent and depend on your browser and on the web page you are pasting from. The editor tries to correct any invalid HTML code that was pasted, but for best results try using the Text tab or one of the paste buttons that are on the second row. Alternatively try pasting paragraph by paragraph. In most browsers to select one paragraph at a time, triple-click on it."
-msgstr "다른 웹페이지에서 컨텐트를 가져와 붙여넣었을 때 결과가 불일치할 경우가 있으며 웹브라우저와 가져오는 웹페이지에 따라 다를 수도 있습니다. 편집기는 붙여진 유효하지 않은 HTML 코드를 수정하려고 하지만 최선의 결과물을 위해 텍스트 탭을 사용하거나 두번째 줄에 있는 붙여넣기 버튼중 하나를 사용해보세요. 다른 방법은 문단별로 붙여넣어 보세요. 대부분의 웹브라우저에서 한 문단을 한번에 선택하려면 문단을 빠르게 3번 클릭하면 됩니다."
+msgid ""
+"When pasting content from another web page the results can be inconsistent "
+"and depend on your browser and on the web page you are pasting from. The "
+"editor tries to correct any invalid HTML code that was pasted, but for best "
+"results try using the Text tab or one of the paste buttons that are on the "
+"second row. Alternatively try pasting paragraph by paragraph. In most "
+"browsers to select one paragraph at a time, triple-click on it."
+msgstr ""
+"다른 웹페이지에서 컨텐트를 가져와 붙여넣었을 때 결과가 불일치할 경우가 있으"
+"며 웹브라우저와 가져오는 웹페이지에 따라 다를 수도 있습니다. 편집기는 붙여진 "
+"유효하지 않은 HTML 코드를 수정하려고 하지만 최선의 결과물을 위해 텍스트 탭을 "
+"사용하거나 두번째 줄에 있는 붙여넣기 버튼중 하나를 사용해보세요. 다른 방법은 "
+"문단별로 붙여넣어 보세요. 대부분의 웹브라우저에서 한 문단을 한번에 선택하려"
+"면 문단을 빠르게 3번 클릭하면 됩니다."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:187
-msgid "Pasting content from another application, like Word or Excel, is best done with the Paste from Word button on the second row, or in Text mode."
-msgstr "워드나 엑셀 같은 다른 애플리케이션에서 컨텐트를 붙여넣는 것은 두번째 줄의 워드에서 붙여넣기 버튼이나 텍스트 모드에서 하면 가장 좋습니다."
+msgid ""
+"Pasting content from another application, like Word or Excel, is best done "
+"with the Paste from Word button on the second row, or in Text mode."
+msgstr ""
+"워드나 엑셀 같은 다른 애플리케이션에서 컨텐트를 붙여넣는 것은 두번째 줄의 워"
+"드에서 붙여넣기 버튼이나 텍스트 모드에서 하면 가장 좋습니다."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:191
 msgid "Writing at Full Speed"
 msgstr "최대한 빨리 쓰기"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:192
-msgid "Rather than reaching for your mouse to click on the toolbar, use these access keys. Windows and Linux use Ctrl + letter. Macintosh uses Command + letter."
-msgstr "툴바를 클릭하기 위해 마우스를 움직이기 보다 단축키를 이용하십시오. 윈도와 리눅스는 Ctrl + 문자, 맥은 Command + 문자 입니다."
+msgid ""
+"Rather than reaching for your mouse to click on the toolbar, use these "
+"access keys. Windows and Linux use Ctrl + letter. Macintosh uses Command + "
+"letter."
+msgstr ""
+"툴바를 클릭하기 위해 마우스를 움직이기 보다 단축키를 이용하십시오. 윈도와 리"
+"눅스는 Ctrl + 문자, 맥은 Command + 문자 입니다."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:195
 #: wp-includes/js/tinymce/wp-mce-help.php:209
@@ -1440,7 +1618,8 @@ msgid "Italic"
 msgstr "이탤릭"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:207
-msgid "The following shortcuts use different access keys: Alt + Shift + letter."
+msgid ""
+"The following shortcuts use different access keys: Alt + Shift + letter."
 msgstr "아래 바로가기는 다른 단축키 Alt + Shift + 문자 를 사용합니다."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:210
@@ -1516,20 +1695,36 @@ msgid "Version:"
 msgstr "버전:"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:232
-msgid "TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor released as Open Source under %sLGPL</a>\tby Moxiecode Systems AB. It has the ability to convert HTML TEXTAREA fields or other HTML elements to editor instances."
-msgstr "TinyMCE 는 플랫폼에 구애받지 않는 웹 기반의 자바스크립트 HTML WYSIWYG 편집기이며 %sLGPL</a>\tby Moxiecode Systems AB에 따라 오픈 소스로 배포됩니다. 이 편집기는 HTML TEXTAREA 칸이나 다른 HTML 요소들을 편집기의 요소로 바꾸어 주는 능력이 있습니다."
+msgid ""
+"TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor "
+"released as Open Source under %sLGPL</a>\tby Moxiecode Systems AB. It has "
+"the ability to convert HTML TEXTAREA fields or other HTML elements to editor "
+"instances."
+msgstr ""
+"TinyMCE 는 플랫폼에 구애받지 않는 웹 기반의 자바스크립트 HTML WYSIWYG 편집기"
+"이며 %sLGPL</a>\tby Moxiecode Systems AB에 따라 오픈 소스로 배포됩니다. 이 편"
+"집기는 HTML TEXTAREA 칸이나 다른 HTML 요소들을 편집기의 요소로 바꾸어 주는 능"
+"력이 있습니다."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:232
 msgid "GNU Library General Public License"
 msgstr "GNU Library General Public License"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:233
-msgid "Copyright &copy; 2003-2011, <a href=\"http://www.moxiecode.com\" target=\"_blank\">Moxiecode Systems AB</a>, All rights reserved."
-msgstr "Copyright &copy; 2003-2011, <a href=\"http://www.moxiecode.com\" target=\"_blank\">Moxiecode Systems AB</a>, All rights reserved."
+msgid ""
+"Copyright &copy; 2003-2011, <a href=\"http://www.moxiecode.com\" target="
+"\"_blank\">Moxiecode Systems AB</a>, All rights reserved."
+msgstr ""
+"Copyright &copy; 2003-2011, <a href=\"http://www.moxiecode.com\" target="
+"\"_blank\">Moxiecode Systems AB</a>, All rights reserved."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:234
-msgid "For more information about this software visit the <a href=\"http://tinymce.com\" target=\"_blank\">TinyMCE website</a>."
-msgstr "이 소프트웨어의 더 많은 정보를 원하시면 <a href=\"http://tinymce.com\" target=\"_blank\">TinyMCE 웹사이트</a>를 방문하세요."
+msgid ""
+"For more information about this software visit the <a href=\"http://tinymce."
+"com\" target=\"_blank\">TinyMCE website</a>."
+msgstr ""
+"이 소프트웨어의 더 많은 정보를 원하시면 <a href=\"http://tinymce.com\" "
+"target=\"_blank\">TinyMCE 웹사이트</a>를 방문하세요."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:237
 msgid "Got Moxie?"
@@ -1577,12 +1772,20 @@ msgid "This is the short link."
 msgstr "이것은 단축 링크입니다."
 
 #: wp-includes/load.php:108
-msgid "Your server is running PHP version %1$s but WordPress %2$s requires at least %3$s."
-msgstr "서버가 PHP 버전 %1$s를 사용중입니다만 워드프레스 %2$s은(는) 최소 %3$s 이상을 요구합니다."
+msgid ""
+"Your server is running PHP version %1$s but WordPress %2$s requires at least "
+"%3$s."
+msgstr ""
+"서버가 PHP 버전 %1$s를 사용중입니다만 워드프레스 %2$s은(는) 최소 %3$s 이상을 "
+"요구합니다."
 
 #: wp-includes/load.php:113
-msgid "Your PHP installation appears to be missing the MySQL extension which is required by WordPress."
-msgstr "PHP에 MySQL 확장이 설치되어 있지 않은 것 같습니다. 워드프레스는 이 확장이 필요합니다."
+msgid ""
+"Your PHP installation appears to be missing the MySQL extension which is "
+"required by WordPress."
+msgstr ""
+"PHP에 MySQL 확장이 설치되어 있지 않은 것 같습니다. 워드프레스는 이 확장이 필"
+"요합니다."
 
 #: wp-includes/load.php:174
 msgid "Maintenance"
@@ -1590,15 +1793,25 @@ msgstr "유지보수"
 
 #: wp-includes/load.php:178
 msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
-msgstr "예약되어 있는 유지보수를 위해 잠시 사용할 수 없습니다. 잠시 후에 다시 확인하세요."
+msgstr ""
+"예약되어 있는 유지보수를 위해 잠시 사용할 수 없습니다. 잠시 후에 다시 확인하"
+"세요."
 
 #: wp-includes/load.php:370
-msgid "<strong>ERROR</strong>: <code>$table_prefix</code> in <code>wp-config.php</code> can only contain numbers, letters, and underscores."
-msgstr "<strong>오류</strong>:  <code>wp-config.php</code>의 <code>$table_prefix</code>는 반드시 영문자, 숫자와 _로만 이뤄져야 합니다."
+msgid ""
+"<strong>ERROR</strong>: <code>$table_prefix</code> in <code>wp-config.php</"
+"code> can only contain numbers, letters, and underscores."
+msgstr ""
+"<strong>오류</strong>:  <code>wp-config.php</code>의 <code>$table_prefix</"
+"code>는 반드시 영문자, 숫자와 _로만 이뤄져야 합니다."
 
 #: wp-includes/load.php:428
-msgid "The site you have requested is not installed properly. Please contact the system administrator."
-msgstr "요청하신 사이트가 올바르게 설치되지 않았습니다. 시스템 관리자에게 문의하시기 바랍니다."
+msgid ""
+"The site you have requested is not installed properly. Please contact the "
+"system administrator."
+msgstr ""
+"요청하신 사이트가 올바르게 설치되지 않았습니다. 시스템 관리자에게 문의하시기 "
+"바랍니다."
 
 #: wp-includes/locale.php:109
 msgid "S_Sunday_initial"
@@ -1678,8 +1891,14 @@ msgid "Maximum upload file size: %d%s."
 msgstr "최대 업로드 파일 사이즈: %d%s."
 
 #: wp-includes/media-template.php:99
-msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the <a href=\"%1$s\" target=\"%2$s\">browser uploader</a> for files over 100MB."
-msgstr "브라우저가 다중 파일 업로더로 큰 사이즈의 파일을 업로드 하는데 제한이 있습니다. 100MB를 초과하는 파일에 대해서는 <a href=\"%1$s\" target=\"%2$s\">브라우저 업로더</a>를 사용하세요."
+msgid ""
+"Your browser has some limitations uploading large files with the multi-file "
+"uploader. Please use the <a href=\"%1$s\" target=\"%2$s\">browser uploader</"
+"a> for files over 100MB."
+msgstr ""
+"브라우저가 다중 파일 업로더로 큰 사이즈의 파일을 업로드 하는데 제한이 있습니"
+"다. 100MB를 초과하는 파일에 대해서는 <a href=\"%1$s\" target=\"%2$s\">브라우"
+"저 업로더</a>를 사용하세요."
 
 #: wp-includes/media-template.php:110
 msgid "Uploading"
@@ -1895,12 +2114,25 @@ msgid "Reverse order"
 msgstr "순서 바꾸기"
 
 #: wp-includes/ms-default-constants.php:126
-msgid "The constant <code>VHOST</code> <strong>is deprecated</strong>. Use the boolean constant <code>SUBDOMAIN_INSTALL</code> in wp-config.php to enable a subdomain configuration. Use is_subdomain_install() to check whether a subdomain configuration is enabled."
-msgstr "상수 <code>VHOST</code>는 폐기 되었습니다. 서브 도메인 환경설정을 가능하도록 하기 위해 wp-config.php에서 boolean 상수인 <code>SUBDOMAIN_INSTALL</code>를 사용하세요. 서브 도메인 환경설정이 가능한지 확인하려면  is_subdomain_install()를 사용하세요."
+msgid ""
+"The constant <code>VHOST</code> <strong>is deprecated</strong>. Use the "
+"boolean constant <code>SUBDOMAIN_INSTALL</code> in wp-config.php to enable a "
+"subdomain configuration. Use is_subdomain_install() to check whether a "
+"subdomain configuration is enabled."
+msgstr ""
+"상수 <code>VHOST</code>는 폐기 되었습니다. 서브 도메인 환경설정을 가능하도록 "
+"하기 위해 wp-config.php에서 boolean 상수인 <code>SUBDOMAIN_INSTALL</code>를 "
+"사용하세요. 서브 도메인 환경설정이 가능한지 확인하려면  is_subdomain_install"
+"()를 사용하세요."
 
 #: wp-includes/ms-default-constants.php:128
-msgid "<strong>Conflicting values for the constants VHOST and SUBDOMAIN_INSTALL.</strong> The value of SUBDOMAIN_INSTALL will be assumed to be your subdomain configuration setting."
-msgstr "<strong>상수 VHOST와 SUBDOMAIN_INSTALL의 충돌 값.</strong> SUBDOMAIN_INSTALL값은 서브 도메인 환경설정 설정값으로 추정됩니다. "
+msgid ""
+"<strong>Conflicting values for the constants VHOST and SUBDOMAIN_INSTALL.</"
+"strong> The value of SUBDOMAIN_INSTALL will be assumed to be your subdomain "
+"configuration setting."
+msgstr ""
+"<strong>상수 VHOST와 SUBDOMAIN_INSTALL의 충돌 값.</strong> SUBDOMAIN_INSTALL"
+"값은 서브 도메인 환경설정 설정값으로 추정됩니다. "
 
 #: wp-includes/ms-functions.php:185
 msgid "The requested user does not exist."
@@ -1916,7 +2148,8 @@ msgstr "<strong>에러</strong>: 사이트 URL이 이미 사용되고 있습니�
 
 #: wp-includes/ms-functions.php:297
 msgid "<strong>ERROR</strong>: problem creating site entry."
-msgstr "<strong>에러</strong>: 문제가 발생하여 사이트 엔트리를 생성하고 있습니다."
+msgstr ""
+"<strong>에러</strong>: 문제가 발생하여 사이트 엔트리를 생성하고 있습니다."
 
 #: wp-includes/ms-functions.php:439 wp-includes/ms-functions.php:565
 msgid "Only lowercase letters (a-z) and numbers are allowed."
@@ -1931,8 +2164,12 @@ msgid "That username is not allowed."
 msgstr "그 사용자 이름은 사용할 수 없습니다."
 
 #: wp-includes/ms-functions.php:457
-msgid "You cannot use that email address to signup. We are having problems with them blocking some of our email. Please use another email provider."
-msgstr "가입을 위해 그 이메일을 사용할 수 없습니다. 이메일의 차단 문제를 겪고 있습니다. 다른 이메일 제공자를 사용해주세요."
+msgid ""
+"You cannot use that email address to signup. We are having problems with "
+"them blocking some of our email. Please use another email provider."
+msgstr ""
+"가입을 위해 그 이메일을 사용할 수 없습니다. 이메일의 차단 문제를 겪고 있습니"
+"다. 다른 이메일 제공자를 사용해주세요."
 
 #: wp-includes/ms-functions.php:460
 msgid "Username must be at least 4 characters."
@@ -1963,7 +2200,8 @@ msgid "Sorry, that email address is already used!"
 msgstr "죄송합니다, 그 이메일은 이미 사용중입니다!"
 
 #: wp-includes/ms-functions.php:499
-msgid "That username is currently reserved but may be available in a couple of days."
+msgid ""
+"That username is currently reserved but may be available in a couple of days."
 msgstr "사용자명이 현재 보류되어 있으나 며칠후면 사용이 가능합니다."
 
 #: wp-includes/ms-functions.php:502
@@ -1971,8 +2209,13 @@ msgid "username and email used"
 msgstr "사용자명과 이메일이 사용중입니다."
 
 #: wp-includes/ms-functions.php:512
-msgid "That email address has already been used. Please check your inbox for an activation email. It will become available in a couple of days if you do nothing."
-msgstr "이메일이 이미 사용중입니다. 활성화 이메일을 확인하세요. 아무것도 하지 않는다면 며칠후 사용이 가능합니다."
+msgid ""
+"That email address has already been used. Please check your inbox for an "
+"activation email. It will become available in a couple of days if you do "
+"nothing."
+msgstr ""
+"이메일이 이미 사용중입니다. 활성화 이메일을 확인하세요. 아무것도 하지 않는다"
+"면 며칠후 사용이 가능합니다."
 
 #: wp-includes/ms-functions.php:562
 msgid "Please enter a site name."
@@ -2117,8 +2360,12 @@ msgid "Already Installed"
 msgstr "이미 설치됐습니다"
 
 #: wp-includes/ms-functions.php:1142
-msgid "You appear to have already installed WordPress. To reinstall please clear your old database tables first."
-msgstr "워드프레스를 이미 설치한 것 같습니다. 재설치 하려면 이전의 데이터베이스 테이블을 먼저 삭제하세요."
+msgid ""
+"You appear to have already installed WordPress. To reinstall please clear "
+"your old database tables first."
+msgstr ""
+"워드프레스를 이미 설치한 것 같습니다. 재설치 하려면 이전의 데이터베이스 테이"
+"블을 먼저 삭제하세요."
 
 #: wp-includes/ms-functions.php:1222
 msgid ""
@@ -2163,12 +2410,20 @@ msgid "This file is too big. Files must be less than %d KB in size."
 msgstr "이 파일은 너무 큽니다. 파일은  %d KB 보다 작아야 합니다."
 
 #: wp-includes/ms-functions.php:1686
-msgid "An error occurred adding you to this site. Back to the <a href=\"%s\">homepage</a>."
-msgstr "귀하를 이 사이트에 추가하던 중 에러가 발생했습니다. <a href=\"%s\">홈페이지</a>로 이동하세요."
+msgid ""
+"An error occurred adding you to this site. Back to the <a href=\"%s"
+"\">homepage</a>."
+msgstr ""
+"귀하를 이 사이트에 추가하던 중 에러가 발생했습니다. <a href=\"%s\">홈페이지</"
+"a>로 이동하세요."
 
 #: wp-includes/ms-functions.php:1688
-msgid "You have been added to this site. Please visit the <a href=\"%s\">homepage</a> or <a href=\"%s\">log in</a> using your username and password."
-msgstr "귀하는 이 사이트에 추가되었습니다. <a href=\"%s\">홈페이지</a>를 방문하시거나 귀하의 사용자명과 비밀번호를 이용하여 <a href=\"%s\">로그인</a>하세요."
+msgid ""
+"You have been added to this site. Please visit the <a href=\"%s\">homepage</"
+"a> or <a href=\"%s\">log in</a> using your username and password."
+msgstr ""
+"귀하는 이 사이트에 추가되었습니다. <a href=\"%s\">홈페이지</a>를 방문하시거"
+"나 귀하의 사용자명과 비밀번호를 이용하여 <a href=\"%s\">로그인</a>하세요."
 
 #: wp-includes/ms-functions.php:1688
 msgid "WordPress &rsaquo; Success"
@@ -2203,12 +2458,19 @@ msgstr ""
 "--The Team @ SITE_NAME"
 
 #: wp-includes/ms-load.php:89
-msgid "This user has elected to delete their account and the content is no longer available."
-msgstr "이 사용자는 계정 삭제에 선정되었으며 컨텐츠가 더이상 사용가능하지 않습니다."
+msgid ""
+"This user has elected to delete their account and the content is no longer "
+"available."
+msgstr ""
+"이 사용자는 계정 삭제에 선정되었으며 컨텐츠가 더이상 사용가능하지 않습니다."
 
 #: wp-includes/ms-load.php:96
-msgid "This site has not been activated yet. If you are having problems activating your site, please contact <a href=\"mailto:%1$s\">%1$s</a>."
-msgstr "이 사이트는 아직 활성화되지 않았습니다. 만약 활성화하는데 문제가 있다면 <a href=\"mailto:%1$s\">%1$s</a>(으)로 연락하세요."
+msgid ""
+"This site has not been activated yet. If you are having problems activating "
+"your site, please contact <a href=\"mailto:%1$s\">%1$s</a>."
+msgstr ""
+"이 사이트는 아직 활성화되지 않았습니다. 만약 활성화하는데 문제가 있다면 <a "
+"href=\"mailto:%1$s\">%1$s</a>(으)로 연락하세요."
 
 #: wp-includes/ms-load.php:103
 msgid "This site has been archived or suspended."
@@ -2216,39 +2478,71 @@ msgstr "이 사이트는 보관되었거나 정지되었습니다."
 
 #: wp-includes/ms-load.php:219
 msgid "That site does not exist. Please try <a href=\"%s\">%s</a>."
-msgstr "그 사이트는 존재하지 않습니다. <a href=\"%s\">%s</a>을(를) 시도해보세요."
+msgstr ""
+"그 사이트는 존재하지 않습니다. <a href=\"%s\">%s</a>을(를) 시도해보세요."
 
 #: wp-includes/ms-load.php:221
-msgid "No site defined on this host. If you are the owner of this site, please check <a href=\"http://codex.wordpress.org/Debugging_a_WordPress_Network\">Debugging a WordPress Network</a> for help."
-msgstr "이 호스트에 정의된 사이트가 없습니다. 만약 이 사이트의 주인이라면, 도움을 위해 <a href=\"http://codex.wordpress.org/Debugging_a_WordPress_Network\">워드프레스 네트워크 디버깅</a>을 확인하세요."
+msgid ""
+"No site defined on this host. If you are the owner of this site, please "
+"check <a href=\"http://codex.wordpress.org/Debugging_a_WordPress_Network"
+"\">Debugging a WordPress Network</a> for help."
+msgstr ""
+"이 호스트에 정의된 사이트가 없습니다. 만약 이 사이트의 주인이라면, 도움을 위"
+"해 <a href=\"http://codex.wordpress.org/Debugging_a_WordPress_Network\">워드"
+"프레스 네트워크 디버깅</a>을 확인하세요."
 
 #: wp-includes/ms-load.php:241
-msgid "If your site does not display, please contact the owner of this network."
+msgid ""
+"If your site does not display, please contact the owner of this network."
 msgstr "만약 사이트가 표시되지 않는다면, 이 네트워크의 소유자에게 연락하세요."
 
 #: wp-includes/ms-load.php:242
-msgid "If you are the owner of this network please check that MySQL is running properly and all tables are error free."
-msgstr "만약 이 네트워크의 소유자라면 MySQL이 정상적으로 실행되고 있는지 모든 테이블이 에러가 없는지 확인하세요."
+msgid ""
+"If you are the owner of this network please check that MySQL is running "
+"properly and all tables are error free."
+msgstr ""
+"만약 이 네트워크의 소유자라면 MySQL이 정상적으로 실행되고 있는지 모든 테이블"
+"이 에러가 없는지 확인하세요."
 
 #: wp-includes/ms-load.php:244
-msgid "<strong>Database tables are missing.</strong> This means that MySQL is not running, WordPress was not installed properly, or someone deleted <code>%s</code>. You really should look at your database now."
-msgstr "<strong>데이터베이스 테이블이 없습니다.</strong> 이 말은 MySQL 이 실행되고 있지 않으며, 워드프레스가 정상적으로 설치되지 않았거나,누군가가 <code>%s</code>을(를) 삭제했다는 뜻입니다. 지금 데이터베이스를 확인해봐야 합니다."
+msgid ""
+"<strong>Database tables are missing.</strong> This means that MySQL is not "
+"running, WordPress was not installed properly, or someone deleted <code>%s</"
+"code>. You really should look at your database now."
+msgstr ""
+"<strong>데이터베이스 테이블이 없습니다.</strong> 이 말은 MySQL 이 실행되고 있"
+"지 않으며, 워드프레스가 정상적으로 설치되지 않았거나,누군가가 <code>%s</code>"
+"을(를) 삭제했다는 뜻입니다. 지금 데이터베이스를 확인해봐야 합니다."
 
 #: wp-includes/ms-load.php:246
-msgid "<strong>Could not find site <code>%1$s</code>.</strong> Searched for table <code>%2$s</code> in database <code>%3$s</code>. Is that right?"
-msgstr "<strong><code>%1$s</code>의 사이트를 찾을 수 없습니다.</strong> <code>%3$s</code> 데이터베이스 안의 <code>%2$s</code>테이블을 검색했습니다. 맞습니까?"
+msgid ""
+"<strong>Could not find site <code>%1$s</code>.</strong> Searched for table "
+"<code>%2$s</code> in database <code>%3$s</code>. Is that right?"
+msgstr ""
+"<strong><code>%1$s</code>의 사이트를 찾을 수 없습니다.</strong> <code>%3$s</"
+"code> 데이터베이스 안의 <code>%2$s</code>테이블을 검색했습니다. 맞습니까?"
 
 #: wp-includes/ms-load.php:247
 msgid "What do I do now?"
 msgstr "이제 무엇을 할까요?"
 
 #: wp-includes/ms-load.php:248
-msgid "Read the <a target=\"_blank\" href=\"http://codex.wordpress.org/Debugging_a_WordPress_Network\">bug report</a> page. Some of the guidelines there may help you figure out what went wrong."
-msgstr "<a target=\"_blank\" href=\"http://codex.wordpress.org/Debugging_a_WordPress_Network\">버그 리포트</a> 페이지를 읽으세요. 거기서 몇개의 가이드라인이 뭐가 잘못됐는지 파악할 수 있도록 도와줄겁니다."
+msgid ""
+"Read the <a target=\"_blank\" href=\"http://codex.wordpress.org/"
+"Debugging_a_WordPress_Network\">bug report</a> page. Some of the guidelines "
+"there may help you figure out what went wrong."
+msgstr ""
+"<a target=\"_blank\" href=\"http://codex.wordpress.org/"
+"Debugging_a_WordPress_Network\">버그 리포트</a> 페이지를 읽으세요. 거기서 몇"
+"개의 가이드라인이 뭐가 잘못됐는지 파악할 수 있도록 도와줄겁니다."
 
 #: wp-includes/ms-load.php:249
-msgid "If you&#8217;re still stuck with this message, then check that your database contains the following tables:"
-msgstr "만약 아직도 이 메세지가 보인다면, 다음 테이블을 포함하는지 데이터베이스를 확인하세요:"
+msgid ""
+"If you&#8217;re still stuck with this message, then check that your database "
+"contains the following tables:"
+msgstr ""
+"만약 아직도 이 메세지가 보인다면, 다음 테이블을 포함하는지 데이터베이스를 확"
+"인하세요:"
 
 #: wp-includes/ms-settings.php:35
 msgid "Multisite only works without the port number in the URL."
@@ -2263,8 +2557,12 @@ msgid "No site by that name on this system."
 msgstr "이 시스템에 그 이름의 사이트가 없습니다."
 
 #: wp-includes/nav-menu.php:226 wp-includes/nav-menu.php:233
-msgid "The menu name <strong>%s</strong> conflicts with another menu name. Please try another."
-msgstr "다음 <strong>%s</strong>의 메뉴 이름은 다른 메뉴 이름과 충돌이 있습니다. 다른 이름으로 시도하세요."
+msgid ""
+"The menu name <strong>%s</strong> conflicts with another menu name. Please "
+"try another."
+msgstr ""
+"다음 <strong>%s</strong>의 메뉴 이름은 다른 메뉴 이름과 충돌이 있습니다. 다"
+"른 이름으로 시도하세요."
 
 #: wp-includes/nav-menu.php:275
 msgid "The given object ID is not that of a menu item."
@@ -2283,8 +2581,12 @@ msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
 msgstr "<strong>오류</strong>:사용자이름이나 암호가 올바르지 않습니다."
 
 #: wp-includes/pluggable.php:808
-msgid "You should specify a nonce action to be verified by using the first parameter."
-msgstr "첫 번째 매개 변수를 사용하여 인증될 수 있도록 넌스 액션(nonce action)을 특정해야 합니다."
+msgid ""
+"You should specify a nonce action to be verified by using the first "
+"parameter."
+msgstr ""
+"첫 번째 매개 변수를 사용하여 인증될 수 있도록 넌스 액션(nonce action)을 특정"
+"해야 합니다."
 
 #: wp-includes/pluggable.php:1014
 msgid "New comment on your post \"%s\""
@@ -2334,7 +2636,8 @@ msgstr "요약: "
 
 #: wp-includes/pluggable.php:1030
 msgid "You can see all trackbacks on this post here: "
-msgstr "이 새로운 게시물에 걸려 있는 모든 엮인글(Trackback)을 보실 수 있습니다:"
+msgstr ""
+"이 새로운 게시물에 걸려 있는 모든 엮인글(Trackback)을 보실 수 있습니다:"
 
 #: wp-includes/pluggable.php:1032
 msgid "[%1$s] Trackback: \"%2$s\""
@@ -2397,9 +2700,15 @@ msgid "Approve it: %s"
 msgstr "받아들이기: %s"
 
 #: wp-includes/pluggable.php:1144
-msgid "Currently %s comment is waiting for approval. Please visit the moderation panel:"
-msgid_plural "Currently %s comments are waiting for approval. Please visit the moderation panel:"
-msgstr[0] "%s개의 댓글이 승인을 받기 위해서 대기하고 있는 중입니다. 검토할 패널에 방문해 주세요:"
+msgid ""
+"Currently %s comment is waiting for approval. Please visit the moderation "
+"panel:"
+msgid_plural ""
+"Currently %s comments are waiting for approval. Please visit the moderation "
+"panel:"
+msgstr[0] ""
+"%s개의 댓글이 승인을 받기 위해서 대기하고 있는 중입니다. 검토할 패널에 방문"
+"해 주세요:"
 
 #: wp-includes/pluggable.php:1148
 msgid "[%1$s] Please moderate: \"%2$s\""
@@ -2439,7 +2748,8 @@ msgid "[%s] Your username and password"
 msgstr "[%s] 사용자명과 비밀번호"
 
 #: wp-includes/plugin.php:679
-msgid "Only a static class method or function can be used in an uninstall hook."
+msgid ""
+"Only a static class method or function can be used in an uninstall hook."
 msgstr "언인스톨 후크에서 정적 클래스 방법이나 기능만 사용할 수 있습니다."
 
 #: wp-includes/post-template.php:110
@@ -2475,7 +2785,8 @@ msgid "Home"
 msgstr "홈"
 
 #: wp-includes/post-template.php:1226
-msgid "This post is password protected. To view it please enter your password below:"
+msgid ""
+"This post is password protected. To view it please enter your password below:"
 msgstr "이 글은 비밀글입니다. 글을 보려면 아래에 암호를 입력하세요:"
 
 #: wp-includes/post-template.php:1227
@@ -2792,7 +3103,9 @@ msgid_plural "Video <span class=\"count\">(%s)</span>"
 msgstr[0] "비디오 <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:2633
-msgid "Passing an integer number of posts is deprecated. Pass an array of arguments instead."
+msgid ""
+"Passing an integer number of posts is deprecated. Pass an array of arguments "
+"instead."
 msgstr "글의 정수 전달은 사용 중지되었습니다. 대신 인자의 배열로 전달합니다."
 
 #: wp-includes/post.php:2731
@@ -2900,12 +3213,19 @@ msgstr "오디오"
 #: wp-includes/query.php:601 wp-includes/query.php:628
 #: wp-includes/query.php:648 wp-includes/query.php:668
 #: wp-includes/query.php:688 wp-includes/query.php:708
-msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
-msgstr "쿼리가 실행되기 전에 조건부 쿼리 태그가 작동하지 않습니다. 그 전에 그것은 항상 False로 돌아옵니다."
+msgid ""
+"Conditional query tags do not work before the query is run. Before then, "
+"they always return false."
+msgstr ""
+"쿼리가 실행되기 전에 조건부 쿼리 태그가 작동하지 않습니다. 그 전에 그것은 항"
+"상 False로 돌아옵니다."
 
 #: wp-includes/query.php:1958
-msgid "\"caller_get_posts\" is deprecated. Use \"ignore_sticky_posts\" instead."
-msgstr "\"caller_get_posts\" 는 사용 중지되었습니다. 대신 \"ignore_sticky_posts\" 을 사용하세요."
+msgid ""
+"\"caller_get_posts\" is deprecated. Use \"ignore_sticky_posts\" instead."
+msgstr ""
+"\"caller_get_posts\" 는 사용 중지되었습니다. 대신 \"ignore_sticky_posts\" 을 "
+"사용하세요."
 
 #: wp-includes/registration-functions.php:7 wp-includes/registration.php:7
 msgid "This file no longer needs to be included."
@@ -2996,8 +3316,12 @@ msgid "of"
 msgstr "의"
 
 #: wp-includes/script-loader.php:188
-msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
-msgstr "이 기능은 인라인 프레임을 필요로 합니다. 아이프레임이 비활성이거나 브라우저가 지원하지 않습니다."
+msgid ""
+"This feature requires inline frames. You have iframes disabled or your "
+"browser does not support them."
+msgstr ""
+"이 기능은 인라인 프레임을 필요로 합니다. 아이프레임이 비활성이거나 브라우저"
+"가 지원하지 않습니다."
 
 #: wp-includes/script-loader.php:201
 msgid "not configured"
@@ -3036,7 +3360,8 @@ msgid "An error occurred in the upload. Please try again later."
 msgstr "업로드중에 오류가 발생했습니다. 나중에 다시 시도하십시오."
 
 #: wp-includes/script-loader.php:213
-msgid "There was a configuration error. Please contact the server administrator."
+msgid ""
+"There was a configuration error. Please contact the server administrator."
 msgstr "설정오류. 서버 관리자와 상의하십시오."
 
 #: wp-includes/script-loader.php:214
@@ -3056,8 +3381,11 @@ msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
 msgstr "이 파일을 %1$s브라우저 업로더%2$s를 사용하여 업로드 해보세요."
 
 #: wp-includes/script-loader.php:218
-msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
-msgstr "웹브라우저 사용시 다중 파일 업로더에서 최대 업로드 크기를 %s 초과했습니다."
+msgid ""
+"%s exceeds the maximum upload size for the multi-file uploader when used in "
+"your browser."
+msgstr ""
+"웹브라우저 사용시 다중 파일 업로더에서 최대 업로드 크기를 %s 초과했습니다."
 
 #: wp-includes/script-loader.php:219
 msgid "IO error."
@@ -3230,7 +3558,8 @@ msgstr "현재 색상"
 
 #: wp-includes/script-loader.php:449
 msgid "Could not load the preview image. Please reload the page and try again."
-msgstr "미리보기 이미지를 불러올 수 없습니다. 페이지를 새로고침하고 다시 시도하세요."
+msgstr ""
+"미리보기 이미지를 불러올 수 없습니다. 페이지를 새로고침하고 다시 시도하세요."
 
 #: wp-includes/script-loader.php:454
 msgid "Use as featured image"
@@ -3468,12 +3797,19 @@ msgid "%1$s - Comments on %2$s"
 msgstr "%1$s - Commentaires sur %2$s"
 
 #: wp-includes/theme-compat/comments-popup.php:35
-msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
-msgstr "이 글의 댓글을 위한 <abbr title=\"Really Simple Syndication\">RSS</abbr> 피드"
+msgid ""
+"<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+"this post."
+msgstr ""
+"이 글의 댓글을 위한 <abbr title=\"Really Simple Syndication\">RSS</abbr> 피드"
 
 #: wp-includes/theme-compat/comments-popup.php:38
-msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
-msgstr "이 글의 트랙백을 위한 <abbr title=\"Universal Resource Locator\">URL</abbr>: <em>%s</em>"
+msgid ""
+"The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this "
+"entry is: <em>%s</em>"
+msgstr ""
+"이 글의 트랙백을 위한 <abbr title=\"Universal Resource Locator\">URL</abbr>: "
+"<em>%s</em>"
 
 #: wp-includes/theme-compat/comments-popup.php:56
 msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
@@ -3488,12 +3824,21 @@ msgid "Leave a comment"
 msgstr "댓글 남기기"
 
 #: wp-includes/theme-compat/comments-popup.php:67
-msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
-msgstr "줄은 자동으로 바뀌고, 이메일 주소는 보여지지 않습니다. 사용할 수 있는 <acronym title=\"Hypertext Markup Language\">HTML</acronym>:<code>%s</code>"
+msgid ""
+"Line and paragraph breaks automatic, e-mail address never displayed, "
+"<acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>"
+"%s</code>"
+msgstr ""
+"줄은 자동으로 바뀌고, 이메일 주소는 보여지지 않습니다. 사용할 수 있는 "
+"<acronym title=\"Hypertext Markup Language\">HTML</acronym>:<code>%s</code>"
 
 #: wp-includes/theme-compat/comments-popup.php:71
-msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
-msgstr "<a href=\"%1$s\">%2$s</a>님으로 로그인함. <a href=\"%3$s\" title=\"Log out of this account\">로그아웃 &raquo;</a>"
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out &raquo;</a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a>님으로 로그인함. <a href=\"%3$s\" title=\"Log out "
+"of this account\">로그아웃 &raquo;</a>"
 
 #: wp-includes/theme-compat/comments-popup.php:80 wp-login.php:553
 msgid "E-mail"
@@ -3524,8 +3869,12 @@ msgid "Sorry, no posts matched your criteria."
 msgstr "죄송합니다. 조건에 맞는 글이 없습니다."
 
 #: wp-includes/theme-compat/comments-popup.php:118
-msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
-msgstr "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>워드프레스</strong></a>"
+msgid ""
+"Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art "
+"semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr ""
+"Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art "
+"semantic personal publishing platform\"><strong>워드프레스</strong></a>"
 
 #: wp-includes/theme-compat/comments.php:17
 msgid "This post is password protected. Enter the password to view comments."
@@ -3563,7 +3912,8 @@ msgstr "메일(보여지지 않습니다.)"
 
 #: wp-includes/theme-compat/comments.php:87
 msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
-msgstr "<strong>XHTML:</strong> 다음 태그들을 사용할 수 있습니다: <code>%s</code>"
+msgstr ""
+"<strong>XHTML:</strong> 다음 태그들을 사용할 수 있습니다: <code>%s</code>"
 
 #: wp-includes/theme-compat/comments.php:91
 msgid "Submit Comment"
@@ -3594,31 +3944,48 @@ msgid "You are currently browsing the archives for the %s category."
 msgstr "현재 %s 카테고리의 보관물을 검색하고 있습니다."
 
 #: wp-includes/theme-compat/sidebar.php:35
-msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
-msgstr "현재 %3$s 일자의 <a href=\"%1$s/\">%2$s</a> 블로그 보관물을 검색하고 있습니다."
+msgid ""
+"You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for "
+"the day %3$s."
+msgstr ""
+"현재 %3$s 일자의 <a href=\"%1$s/\">%2$s</a> 블로그 보관물을 검색하고 있습니"
+"다."
 
 #: wp-includes/theme-compat/sidebar.php:35
 msgid "l, F jS, Y"
 msgstr "l, F jS, Y"
 
 #: wp-includes/theme-compat/sidebar.php:38
-msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
-msgstr "현재 %3$s 의 <a href=\"%1$s/\">%2$s</a> 블로그 보관물을 검색하고 있습니다."
+msgid ""
+"You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for "
+"%3$s."
+msgstr ""
+"현재 %3$s 의 <a href=\"%1$s/\">%2$s</a> 블로그 보관물을 검색하고 있습니다."
 
 #: wp-includes/theme-compat/sidebar.php:38
 msgid "F, Y"
 msgstr "F, Y"
 
 #: wp-includes/theme-compat/sidebar.php:41
-msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
-msgstr "현재  %3$s 년도의 <a href=\"%1$s/\">%2$s</a> 블로그 보관물을 검색하고 있습니다."
+msgid ""
+"You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for "
+"the year %3$s."
+msgstr ""
+"현재  %3$s 년도의 <a href=\"%1$s/\">%2$s</a> 블로그 보관물을 검색하고 있습니"
+"다."
 
 #: wp-includes/theme-compat/sidebar.php:44
-msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
-msgstr "<strong>&#8216;%3$s&#8217;</strong>의 <a href=\"%1$s/\">%2$s</a> 블로그 보관물을 검색했습니다.만약 아무것도 찾을 수 없다면 다음 링크들을 시도해보세요."
+msgid ""
+"You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for "
+"<strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in "
+"these search results, you can try one of these links."
+msgstr ""
+"<strong>&#8216;%3$s&#8217;</strong>의 <a href=\"%1$s/\">%2$s</a> 블로그 보관"
+"물을 검색했습니다.만약 아무것도 찾을 수 없다면 다음 링크들을 시도해보세요."
 
 #: wp-includes/theme-compat/sidebar.php:47
-msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgid ""
+"You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
 msgstr "현재 <a href=\"%1$s/\">%2$s</a> 블로그 보관물을 검색하고 있습니다."
 
 #: wp-includes/theme-compat/sidebar.php:73
@@ -3627,7 +3994,8 @@ msgstr "이 문서는 XHTML 1.0 Transitional을 준수합니다."
 
 #: wp-includes/theme-compat/sidebar.php:73
 msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
-msgstr "유효한 <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr ""
+"유효한 <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
 
 #: wp-includes/theme-compat/sidebar.php:74
 msgid "XHTML Friends Network"
@@ -3660,8 +4028,12 @@ msgid "<strong>ERROR</strong>: The password field is empty."
 msgstr "<strong>오류</strong>: 암호 항목이 비었습니다."
 
 #: wp-includes/user.php:90
-msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
-msgstr "<strong>에러</strong>:사용자 이름이 올바르지 않습니다. <a href=\"%s\" title=\"Password Lost and Found\">비밀번호를 잊으셨습니까</a>?"
+msgid ""
+"<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Password "
+"Lost and Found\">Lost your password</a>?"
+msgstr ""
+"<strong>에러</strong>:사용자 이름이 올바르지 않습니다. <a href=\"%s\" title="
+"\"Password Lost and Found\">비밀번호를 잊으셨습니까</a>?"
 
 #: wp-includes/user.php:95
 msgid "<strong>ERROR</strong>: Your account has been marked as a spammer."
@@ -3672,8 +4044,13 @@ msgid "Site Suspended."
 msgstr "사이트가 중단되었습니다."
 
 #: wp-includes/user.php:110
-msgid "<strong>ERROR</strong>: The password you entered for the username <strong>%1$s</strong> is incorrect. <a href=\"%2$s\" title=\"Password Lost and Found\">Lost your password</a>?"
-msgstr "<strong>에러</strong>:사용자명의 비밀번호가 올바르지 않습니다. <a href=\"%s\" title=\"Password Lost and Found\">비밀번호를 잊으셨습니까</a>?"
+msgid ""
+"<strong>ERROR</strong>: The password you entered for the username <strong>"
+"%1$s</strong> is incorrect. <a href=\"%2$s\" title=\"Password Lost and Found"
+"\">Lost your password</a>?"
+msgstr ""
+"<strong>에러</strong>: 사용자명 %1$s의 비밀번호가 올바르지 않습니다. <a href="
+"\"%2$s\" title=\"Password Lost and Found\">비밀번호를 잊으셨습니까</a>?"
 
 #: wp-includes/user.php:135
 msgid "Please log in again."
@@ -3715,22 +4092,35 @@ msgstr "사이드바"
 #: wp-includes/wp-db.php:846
 msgid ""
 "<h1>Can&#8217;t select database</h1>\n"
-"<p>We were able to connect to the database server (which means your username and password is okay) but not able to select the <code>%1$s</code> database.</p>\n"
+"<p>We were able to connect to the database server (which means your username "
+"and password is okay) but not able to select the <code>%1$s</code> database."
+"</p>\n"
 "<ul>\n"
 "<li>Are you sure it exists?</li>\n"
-"<li>Does the user <code>%2$s</code> have permission to use the <code>%1$s</code> database?</li>\n"
-"<li>On some systems the name of your database is prefixed with your username, so it would be like <code>username_%1$s</code>. Could that be the problem?</li>\n"
+"<li>Does the user <code>%2$s</code> have permission to use the <code>%1$s</"
+"code> database?</li>\n"
+"<li>On some systems the name of your database is prefixed with your "
+"username, so it would be like <code>username_%1$s</code>. Could that be the "
+"problem?</li>\n"
 "</ul>\n"
-"<p>If you don't know how to set up a database you should <strong>contact your host</strong>. If all else fails you may find help at the <a href=\"http://wordpress.org/support/\">WordPress Support Forums</a>.</p>"
+"<p>If you don't know how to set up a database you should <strong>contact "
+"your host</strong>. If all else fails you may find help at the <a href="
+"\"http://wordpress.org/support/\">WordPress Support Forums</a>.</p>"
 msgstr ""
 "<h1>데이터베이스를 선택할 수 없습니다.</h1>\n"
-"<p>사용자이름과 비밀번호가 맞다면 데이터베이스에 접속할 수 있습니다. 그러나 %1$s 데이터베이스를 선택할 수 없습니다.</p>\n"
+"<p>사용자이름과 비밀번호가 맞다면 데이터베이스에 접속할 수 있습니다. 그러나 "
+"%1$s 데이터베이스를 선택할 수 없습니다.</p>\n"
 "<ul>\n"
 "<li>확실히 존재하나요?</li>\n"
-"<li><code>%2$s</code> 사용자가 <code>%1$s</code> 데이테베이스를 사용할 권리가 있나요?</li>\n"
-"<li>일부 시스템에서는 데이터 베이스 앞에 이름을 붙이는 경우가 있습니다. 이런 경우 실제 데이터베이스 이름은 사용자이름_wordpress입니다. 문제가 있나요?</li>\n"
+"<li><code>%2$s</code> 사용자가 <code>%1$s</code> 데이테베이스를 사용할 권리"
+"가 있나요?</li>\n"
+"<li>일부 시스템에서는 데이터 베이스 앞에 이름을 붙이는 경우가 있습니다. 이런 "
+"경우 실제 데이터베이스 이름은 사용자이름_wordpress입니다. 문제가 있나요?</"
+"li>\n"
 "</ul>\n"
-"<p>데이터베이스를 설정하는 방법을 모르신다면 <strong>관리자와 상담</strong>하십시오 . 모든 방법이 실패한다면 <a href=\"http://wordpress.org/support/\">워드프레스 지원포럼</a>에서 해답을 얻을 수 있습니다.</p>"
+"<p>데이터베이스를 설정하는 방법을 모르신다면 <strong>관리자와 상담</strong>하"
+"십시오 . 모든 방법이 실패한다면 <a href=\"http://wordpress.org/support/\">워"
+"드프레스 지원포럼</a>에서 해답을 얻을 수 있습니다.</p>"
 
 #: wp-includes/wp-db.php:1032
 msgid "WordPress database error %1$s for query %2$s made by %3$s"
@@ -3744,43 +4134,68 @@ msgstr "워드프레스 데이터베이스 오류 %1$s(쿼리 : %2$s)"
 msgid ""
 "\n"
 "<h1>Error establishing a database connection</h1>\n"
-"<p>This either means that the username and password information in your <code>wp-config.php</code> file is incorrect or we can't contact the database server at <code>%s</code>. This could mean your host's database server is down.</p>\n"
+"<p>This either means that the username and password information in your "
+"<code>wp-config.php</code> file is incorrect or we can't contact the "
+"database server at <code>%s</code>. This could mean your host's database "
+"server is down.</p>\n"
 "<ul>\n"
 "\t<li>Are you sure you have the correct username and password?</li>\n"
 "\t<li>Are you sure that you have typed the correct hostname?</li>\n"
 "\t<li>Are you sure that the database server is running?</li>\n"
 "</ul>\n"
-"<p>If you're unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href='http://wordpress.org/support/'>WordPress Support Forums</a>.</p>\n"
+"<p>If you're unsure what these terms mean you should probably contact your "
+"host. If you still need help you can always visit the <a href='http://"
+"wordpress.org/support/'>WordPress Support Forums</a>.</p>\n"
 msgstr ""
 "\n"
 "<h1>데이터베이스에 연결하는데 오류가 생겼습니다.</h1>\n"
-"<p>이는 <code>wp-config.php</code> 파일에 사용자이름과 암호가 정확하지 않거나 <code>%s</code>의 데이터베이스에 접근할 수 없는 경우 입니다.  이는 호스트의 데이터베이스 서버가 동작하지 않는 것 일 수 있습니다.</p>\n"
+"<p>이는 <code>wp-config.php</code> 파일에 사용자이름과 암호가 정확하지 않거"
+"나 <code>%s</code>의 데이터베이스에 접근할 수 없는 경우 입니다.  이는 호스트"
+"의 데이터베이스 서버가 동작하지 않는 것 일 수 있습니다.</p>\n"
 "<ul>\n"
 "\t<li>사용자이름과 암호가 올바릅니까?</li>\n"
 "\t<li>올바른 호스트네임을 입력하였습니까?</li>\n"
 "\t<li>데이터베이스 서버가 실행중입니까?</li>\n"
 "</ul>\n"
-"<p>확실하지 않다면 관리자에게 이를 문의하시십시오. 더 도움이 필요하다면 항상 <a href='http://wordpress.org/support/'>워드프레스 지원 포럼</a>에 오십시오.</p>\n"
+"<p>확실하지 않다면 관리자에게 이를 문의하시십시오. 더 도움이 필요하다면 항상 "
+"<a href='http://wordpress.org/support/'>워드프레스 지원 포럼</a>에 오십시오."
+"</p>\n"
 
 #: wp-includes/wp-db.php:1655
 msgid "<strong>ERROR</strong>: WordPress %1$s requires MySQL %2$s or higher"
-msgstr "<strong>에러</strong>: 워드프레스 %1$s는 MySQL %2$s 또는 그 이상을 필요로 합니다."
+msgstr ""
+"<strong>에러</strong>: 워드프레스 %1$s는 MySQL %2$s 또는 그 이상을 필요로 합"
+"니다."
 
 #: wp-links-opml.php:29
 msgid "Links for %s"
 msgstr "%s를 위한 링크"
 
 #: wp-load.php:57
-msgid "There doesn't seem to be a <code>wp-config.php</code> file. I need this before we can get started."
-msgstr "<code>wp-config.php</code>파일이 없는 것 같습니다. 시작하기 위해서 이 파일이 필요합니다."
+msgid ""
+"There doesn't seem to be a <code>wp-config.php</code> file. I need this "
+"before we can get started."
+msgstr ""
+"<code>wp-config.php</code>파일이 없는 것 같습니다. 시작하기 위해서 이 파일이 "
+"필요합니다."
 
 #: wp-load.php:58
-msgid "Need more help? <a href='http://codex.wordpress.org/Editing_wp-config.php'>We got it</a>."
-msgstr "도움이 더 필요하세요? <a href='http://codex.wordpress.org/Editing_wp-config.php'>여기 있습니다.</a>"
+msgid ""
+"Need more help? <a href='http://codex.wordpress.org/Editing_wp-config."
+"php'>We got it</a>."
+msgstr ""
+"도움이 더 필요하세요? <a href='http://codex.wordpress.org/Editing_wp-config."
+"php'>여기 있습니다.</a>"
 
 #: wp-load.php:59
-msgid "You can create a <code>wp-config.php</code> file through a web interface, but this doesn't work for all server setups. The safest way is to manually create the file."
-msgstr "웹페이지에서 <code>wp-config.php</code>파일을 만들 수 있지만, 모든 서버 설정에서 작동하는 것은 아닙니다. 가장 안전한 방법은 이 파일을 수동으로 만드는 것입니다."
+msgid ""
+"You can create a <code>wp-config.php</code> file through a web interface, "
+"but this doesn't work for all server setups. The safest way is to manually "
+"create the file."
+msgstr ""
+"웹페이지에서 <code>wp-config.php</code>파일을 만들 수 있지만, 모든 서버 설정"
+"에서 작동하는 것은 아닙니다. 가장 안전한 방법은 이 파일을 수동으로 만드는 것"
+"입니다."
 
 #: wp-load.php:60
 msgid "Create a Configuration File"
@@ -3803,12 +4218,15 @@ msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
 msgstr "<strong>오류</strong>: 사용자 이름이나 전자우편 주소를 넣으세요."
 
 #: wp-login.php:193
-msgid "<strong>ERROR</strong>: There is no user registered with that email address."
-msgstr "<strong>오류</strong>: 입력한 전자우편 주소로는 사용자를 찾을 수 없습니다."
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+"<strong>오류</strong>: 입력한 전자우편 주소로는 사용자를 찾을 수 없습니다."
 
 #: wp-login.php:205
 msgid "<strong>ERROR</strong>: Invalid username or e-mail."
-msgstr "<strong>오류</strong>:사용자이름이나 전자우편 주소가 올바르지 않습니다."
+msgstr ""
+"<strong>오류</strong>:사용자이름이나 전자우편 주소가 올바르지 않습니다."
 
 #: wp-login.php:219
 msgid "Password reset is not allowed for this user"
@@ -3836,7 +4254,8 @@ msgstr "전자우편을 보낼 수 없습니다."
 
 #: wp-login.php:251
 msgid "Possible reason: your host may have disabled the mail() function..."
-msgstr "가능성 있는 이유: 서버(host)에서 mail() 함수를 막아놓았을 수 있습니다..."
+msgstr ""
+"가능성 있는 이유: 서버(host)에서 mail() 함수를 막아놓았을 수 있습니다..."
 
 #: wp-login.php:271 wp-login.php:274 wp-login.php:279
 msgid "Invalid key"
@@ -3847,12 +4266,20 @@ msgid "<strong>ERROR</strong>: Please enter a username."
 msgstr "<strong>오류</strong>:사용자이름을 적어주세요"
 
 #: wp-login.php:315
-msgid "<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
-msgstr "<strong>에러</strong>: 이 사용자명은 올바르지 않습니다. 올바른 사용자명을 입력하여 주십시오."
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+"<strong>에러</strong>: 이 사용자명은 올바르지 않습니다. 올바른 사용자명을 입"
+"력하여 주십시오."
 
 #: wp-login.php:318
-msgid "<strong>ERROR</strong>: This username is already registered. Please choose another one."
-msgstr "<strong>에러</strong>: 해당 사용자명은 이미 등록됐습니다. 다른 것으로 선택해주세요."
+msgid ""
+"<strong>ERROR</strong>: This username is already registered. Please choose "
+"another one."
+msgstr ""
+"<strong>에러</strong>: 해당 사용자명은 이미 등록됐습니다. 다른 것으로 선택해"
+"주세요."
 
 #: wp-login.php:323
 msgid "<strong>ERROR</strong>: Please type your e-mail address."
@@ -3863,12 +4290,20 @@ msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
 msgstr "<strong>오류</strong>: 전자우편 주소가 올바르지 않습니다."
 
 #: wp-login.php:328
-msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
-msgstr "<strong>오류</strong>: 이 전자우편 주소는 이미 등록되어 있습니다. 다른 주소를 적어주십시오."
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>오류</strong>: 이 전자우편 주소는 이미 등록되어 있습니다. 다른 주소"
+"를 적어주십시오."
 
 #: wp-login.php:341
-msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
-msgstr "<strong>오류</strong>: 등록할 수 없습니다. <a href=\"mailto:%s\">운영자</a>에게 연락해 보세요!"
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>오류</strong>: 등록할 수 없습니다. <a href=\"mailto:%s\">운영자</a>에"
+"게 연락해 보세요!"
 
 #: wp-login.php:428
 msgid "Sorry, that key does not appear to be valid."
@@ -3879,8 +4314,12 @@ msgid "Lost Password"
 msgstr "암호 분실"
 
 #: wp-login.php:432
-msgid "Please enter your username or email address. You will receive a link to create a new password via email."
-msgstr "사용자명이나 이메일 주소를 입력하세요. 이메일로 새로운 비밀번호 생성 링크를 받을 수 있습니다."
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+"사용자명이나 이메일 주소를 입력하세요. 이메일로 새로운 비밀번호 생성 링크를 "
+"받을 수 있습니다."
 
 #: wp-login.php:440
 msgid "Username or E-mail:"
@@ -3927,12 +4366,34 @@ msgid "Your account is now active!"
 msgstr "계정이 활성화되었습니다!"
 
 #: wp-activate.php:84
-msgid "Your account has been activated. You may now <a href=\"%1$s\">log in</a> to the site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
-msgstr "계정이 활성화되었습니다. 이제 선택한 &#8220;%2$s&#8221; 사용자명으로 사이트에 <a href=\"%1$s\">로그인</a>할 수 있습니다. 비밀번호와 로그인안내를 보시려면 %3$s 에서 이메일을 확인하세요. 이메일을 받지 못한 경우 스팸메일이나 정크메일 폴더를 확인하세요. 한시간이 지나도 이메일을 받지 못하면 <a href=\"%4$s\">비밀번호 초기화</a>를 할 수 있습니다."
+msgid ""
+"Your account has been activated. You may now <a href=\"%1$s\">log in</a> to "
+"the site using your chosen username of &#8220;%2$s&#8221;. Please check your "
+"email inbox at %3$s for your password and login instructions. If you do not "
+"receive an email, please check your junk or spam folder. If you still do not "
+"receive an email within an hour, you can <a href=\"%4$s\">reset your "
+"password</a>."
+msgstr ""
+"계정이 활성화되었습니다. 이제 선택한 &#8220;%2$s&#8221; 사용자명으로 사이트"
+"에 <a href=\"%1$s\">로그인</a>할 수 있습니다. 비밀번호와 로그인안내를 보시려"
+"면 %3$s 에서 이메일을 확인하세요. 이메일을 받지 못한 경우 스팸메일이나 정크메"
+"일 폴더를 확인하세요. 한시간이 지나도 이메일을 받지 못하면 <a href=\"%4$s\">"
+"비밀번호 초기화</a>를 할 수 있습니다."
 
 #: wp-activate.php:86
-msgid "Your site at <a href=\"%1$s\">%2$s</a> is active. You may now log in to your site using your chosen username of &#8220;%3$s&#8221;. Please check your email inbox at %4$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%5$s\">reset your password</a>."
-msgstr "<a href=\"%1$s\">%2$s</a> 사이트가 활성화되었습니다. 이제 선택한 &#8220;%3$s&#8221; 사용자명으로 사이트에 로그인할 수 있습니다. 비밀번호와 로그인안내를 보시려면 %4$s 에서 이메일을 확인하세요. 이메일을 받지 못한 경우 스팸메일이나 정크메일 폴더를 확인하세요. 한시간이 지나도 이메일을 받지 못하면 <a href=\"%5$s\">비밀번호 초기화</a>를 할 수 있습니다.\""
+msgid ""
+"Your site at <a href=\"%1$s\">%2$s</a> is active. You may now log in to your "
+"site using your chosen username of &#8220;%3$s&#8221;. Please check your "
+"email inbox at %4$s for your password and login instructions. If you do not "
+"receive an email, please check your junk or spam folder. If you still do not "
+"receive an email within an hour, you can <a href=\"%5$s\">reset your "
+"password</a>."
+msgstr ""
+"<a href=\"%1$s\">%2$s</a> 사이트가 활성화되었습니다. 이제 선택한 &#8220;"
+"%3$s&#8221; 사용자명으로 사이트에 로그인할 수 있습니다. 비밀번호와 로그인안내"
+"를 보시려면 %4$s 에서 이메일을 확인하세요. 이메일을 받지 못한 경우 스팸메일이"
+"나 정크메일 폴더를 확인하세요. 한시간이 지나도 이메일을 받지 못하면 <a href="
+"\"%5$s\">비밀번호 초기화</a>를 할 수 있습니다.\""
 
 #: wp-activate.php:91
 msgid "An error occurred during the activation"
@@ -3947,12 +4408,20 @@ msgid "Password:"
 msgstr "암호:"
 
 #: wp-activate.php:108
-msgid "Your account is now activated. <a href=\"%1$s\">View your site</a> or <a href=\"%2$s\">Log in</a>"
-msgstr "계정이 활성화되었습니다. <a href=\"%1$s\">사이트 보기</a> 또는 <a href=\"%2$s\">로그인</a>"
+msgid ""
+"Your account is now activated. <a href=\"%1$s\">View your site</a> or <a "
+"href=\"%2$s\">Log in</a>"
+msgstr ""
+"계정이 활성화되었습니다. <a href=\"%1$s\">사이트 보기</a> 또는 <a href=\"%2$s"
+"\">로그인</a>"
 
 #: wp-activate.php:110
-msgid "Your account is now activated. <a href=\"%1$s\">Log in</a> or go back to the <a href=\"%2$s\">homepage</a>."
-msgstr "계정이 활성화되었습니다. <a href=\"%1$s\">로그인</a> 또는 <a href=\"%2$s\">홈페이지</a>로 돌아가기."
+msgid ""
+"Your account is now activated. <a href=\"%1$s\">Log in</a> or go back to the "
+"<a href=\"%2$s\">homepage</a>."
+msgstr ""
+"계정이 활성화되었습니다. <a href=\"%1$s\">로그인</a> 또는 <a href=\"%2$s\">홈"
+"페이지</a>로 돌아가기."
 
 #: wp-comments-post.php:36
 msgid "Sorry, comments are closed for this item."
@@ -3964,7 +4433,8 @@ msgstr "죄송합니다, 로그인을 해야 댓글을 남길 수 있습니다."
 
 #: wp-comments-post.php:78
 msgid "<strong>ERROR</strong>: please fill the required fields (name, email)."
-msgstr "<strong>에러</strong>&nbsp;: 꼭 필요한 항목(이름, 이메일)을 입력해주세요."
+msgstr ""
+"<strong>에러</strong>&nbsp;: 꼭 필요한 항목(이름, 이메일)을 입력해주세요."
 
 #: wp-comments-post.php:80
 msgid "<strong>ERROR</strong>: please enter a valid email address."
@@ -3979,8 +4449,12 @@ msgid "Akismet %s requires WordPress 3.0 or higher."
 msgstr "Akismet %s은 워드프레스 3.0 이나 그 이상을 요구합니다."
 
 #: wp-content/plugins/akismet/admin.php:14
-msgid "Please <a href=\"%s\">upgrade WordPress</a> to a current version, or <a href=\"%s\">downgrade to version 2.4 of the Akismet plugin</a>."
-msgstr "<a href=\"%s\">워드프레스를 업그레이드</a>하시거나  또는 <a href=\"%s\">Akismet 플러그인 버전을 2.4로 다운그레이드해주십시오</a>."
+msgid ""
+"Please <a href=\"%s\">upgrade WordPress</a> to a current version, or <a href="
+"\"%s\">downgrade to version 2.4 of the Akismet plugin</a>."
+msgstr ""
+"<a href=\"%s\">워드프레스를 업그레이드</a>하시거나  또는 <a href=\"%s"
+"\">Akismet 플러그인 버전을 2.4로 다운그레이드해주십시오</a>."
 
 #: wp-content/plugins/akismet/admin.php:26
 msgid "Comment History"
@@ -4009,16 +4483,26 @@ msgid "The key you entered is invalid. Please double-check it."
 msgstr "키(key)가 잘못된 것 같습니다. 다시 확인해 보세요."
 
 #: wp-content/plugins/akismet/admin.php:137
-msgid "The key you entered could not be verified because a connection to akismet.com could not be established. Please check your server configuration."
-msgstr "Akismet 서버와 연결할 수 없기 때문에 입력한 키를 확인할 수 없습니다. 서버 설정을 확인하십시오."
+msgid ""
+"The key you entered could not be verified because a connection to akismet."
+"com could not be established. Please check your server configuration."
+msgstr ""
+"Akismet 서버와 연결할 수 없기 때문에 입력한 키를 확인할 수 없습니다. 서버 설"
+"정을 확인하십시오."
 
 #: wp-content/plugins/akismet/admin.php:138
-msgid "There was a problem connecting to the Akismet server. Please check your server configuration."
-msgstr "Akismet 서버와 연결하는 중에 문제가 생겼습니다. 서버 설정을 확인하십시오."
+msgid ""
+"There was a problem connecting to the Akismet server. Please check your "
+"server configuration."
+msgstr ""
+"Akismet 서버와 연결하는 중에 문제가 생겼습니다. 서버 설정을 확인하십시오."
 
 #: wp-content/plugins/akismet/admin.php:139
-msgid "Please enter an API key. (<a href=\"%s\" style=\"color:#fff\">Get your key.</a>)"
-msgstr "API 키를 입력하십시오. (<a href=\"%s\" style=\"color:#fff\">키 구하기</a>)"
+msgid ""
+"Please enter an API key. (<a href=\"%s\" style=\"color:#fff\">Get your key.</"
+"a>)"
+msgstr ""
+"API 키를 입력하십시오. (<a href=\"%s\" style=\"color:#fff\">키 구하기</a>)"
 
 #: wp-content/plugins/akismet/admin.php:140
 msgid "This key is valid."
@@ -4029,12 +4513,20 @@ msgid "This key is invalid."
 msgstr "이 키는 유효하지 않습니다."
 
 #: wp-content/plugins/akismet/admin.php:142
-msgid "The key below was previously validated but a connection to akismet.com can not be established at this time. Please check your server configuration."
-msgstr "아래의 키는 이전에 검증되었으나 현재는 akismet.com과 연결이 되지 않습니다. 서버 설정을 확인하십시오."
+msgid ""
+"The key below was previously validated but a connection to akismet.com can "
+"not be established at this time. Please check your server configuration."
+msgstr ""
+"아래의 키는 이전에 검증되었으나 현재는 akismet.com과 연결이 되지 않습니다. 서"
+"버 설정을 확인하십시오."
 
 #: wp-content/plugins/akismet/admin.php:143
-msgid "Your WordPress home URL %s is invalid.  Please fix the <a href=\"%s\">home option</a>."
-msgstr "워드프레스 메인 URL %s은 잘못되었습니다. <a href=\"%s\">메인 옵션</a>을 수정하세요."
+msgid ""
+"Your WordPress home URL %s is invalid.  Please fix the <a href=\"%s\">home "
+"option</a>."
+msgstr ""
+"워드프레스 메인 URL %s은 잘못되었습니다. <a href=\"%s\">메인 옵션</a>을 수정"
+"하세요."
 
 #: wp-content/plugins/akismet/admin.php:147
 msgid "Options saved."
@@ -4047,12 +4539,26 @@ msgid "Akismet Configuration"
 msgstr "Akismet 설정"
 
 #: wp-content/plugins/akismet/admin.php:152
-msgid "<strong>Sign up success!</strong> Please check your email for your Akismet API Key and enter it below."
-msgstr "<strong>가입 성공!</strong> 이메일에서 Akismet API 키를 확인하시고 아래에 입력하세요."
+msgid ""
+"<strong>Sign up success!</strong> Please check your email for your Akismet "
+"API Key and enter it below."
+msgstr ""
+"<strong>가입 성공!</strong> 이메일에서 Akismet API 키를 확인하시고 아래에 입"
+"력하세요."
 
 #: wp-content/plugins/akismet/admin.php:157
-msgid "For many people, <a href=\"%1$s\">Akismet</a> will greatly reduce or even completely eliminate the comment and trackback spam you get on your site. If one does happen to get through, simply mark it as \"spam\" on the moderation screen and Akismet will learn from the mistakes. If you don't have an API key yet, you can get one at <a href=\"%2$s\">Akismet.com</a>."
-msgstr "많은 사람들에게 <a href=\"%1$s\">Akismet</a>은 사이트에 들어오는 댓글과 트랙백 스팸을 획기적으로 줄여주거나 심지어 완벽하게 제거할 것입니다. 제거되지 않은 스팸은 검토 화면에서 단순히 \"스팸\"으로 표시를 하면 Akismet는 실수를 배울 것입니다. 아직 WordPress.com 계정이 없으시면 <a href=\"%2$s\">Akismet.com</a>에서 얻을 수 있습니다."
+msgid ""
+"For many people, <a href=\"%1$s\">Akismet</a> will greatly reduce or even "
+"completely eliminate the comment and trackback spam you get on your site. If "
+"one does happen to get through, simply mark it as \"spam\" on the moderation "
+"screen and Akismet will learn from the mistakes. If you don't have an API "
+"key yet, you can get one at <a href=\"%2$s\">Akismet.com</a>."
+msgstr ""
+"많은 사람들에게 <a href=\"%1$s\">Akismet</a>은 사이트에 들어오는 댓글과 트랙"
+"백 스팸을 획기적으로 줄여주거나 심지어 완벽하게 제거할 것입니다. 제거되지 않"
+"은 스팸은 검토 화면에서 단순히 \"스팸\"으로 표시를 하면 Akismet는 실수를 배"
+"울 것입니다. 아직 WordPress.com 계정이 없으시면 <a href=\"%2$s\">Akismet."
+"com</a>에서 얻을 수 있습니다."
 
 #: wp-content/plugins/akismet/admin.php:159
 msgid "Akismet API Key"
@@ -4067,8 +4573,14 @@ msgid "Why might my key be invalid?"
 msgstr "내 키가 왜 올바르지 않은가?"
 
 #: wp-content/plugins/akismet/admin.php:166
-msgid "This can mean one of two things, either you copied the key wrong or that the plugin is unable to reach the Akismet servers, which is most often caused by an issue with your web host around firewalls or similar."
-msgstr "이는 두 가지 경우중 하나일 것입니다. 첫째는 키를 잘못 복사한 경우, 또는 플러그인이 Akismet서버를 접근할 수 없는 경우입니다. 두번째 경우는 방화벽 뒤에 있는 웹서버나 그와 비슷한 환경에서 자주 발생합니다."
+msgid ""
+"This can mean one of two things, either you copied the key wrong or that the "
+"plugin is unable to reach the Akismet servers, which is most often caused by "
+"an issue with your web host around firewalls or similar."
+msgstr ""
+"이는 두 가지 경우중 하나일 것입니다. 첫째는 키를 잘못 복사한 경우, 또는 플러"
+"그인이 Akismet서버를 접근할 수 없는 경우입니다. 두번째 경우는 방화벽 뒤에 있"
+"는 웹서버나 그와 비슷한 환경에서 자주 발생합니다."
 
 #: wp-content/plugins/akismet/admin.php:170
 msgid "Auto-delete spam submitted on posts more than a month old."
@@ -4091,24 +4603,51 @@ msgid "Network functions are disabled."
 msgstr "네트워크 함수 비활성화됨."
 
 #: wp-content/plugins/akismet/admin.php:182
-msgid "Your web host or server administrator has disabled PHP's <code>fsockopen</code> or <code>gethostbynamel</code> functions.  <strong>Akismet cannot work correctly until this is fixed.</strong>  Please contact your web host or firewall administrator and give them <a href=\"%s\" target=\"_blank\">this information about Akismet's system requirements</a>."
-msgstr "웹 호스트나 서버 관리자가 PHP의 <code>fsockopen</code> 기능을 비활성화시켜놨습니다.  <strong>이 문제가 해결되기 전에는 Akismet 이 제대로 작동할 수 없습니다.</strong>  웹호스트나 방화벽 관리자에게 연락하여 <a href=\"%s\" target=\"_blank\">Akismet의 시스템 필수항목에 대한 정보를 주십시오</a>."
+msgid ""
+"Your web host or server administrator has disabled PHP's <code>fsockopen</"
+"code> or <code>gethostbynamel</code> functions.  <strong>Akismet cannot work "
+"correctly until this is fixed.</strong>  Please contact your web host or "
+"firewall administrator and give them <a href=\"%s\" target=\"_blank\">this "
+"information about Akismet's system requirements</a>."
+msgstr ""
+"웹 호스트나 서버 관리자가 PHP의 <code>fsockopen</code> 기능을 비활성화시켜놨"
+"습니다.  <strong>이 문제가 해결되기 전에는 Akismet 이 제대로 작동할 수 없습니"
+"다.</strong>  웹호스트나 방화벽 관리자에게 연락하여 <a href=\"%s\" target="
+"\"_blank\">Akismet의 시스템 필수항목에 대한 정보를 주십시오</a>."
 
 #: wp-content/plugins/akismet/admin.php:190
 msgid "Unable to reach some Akismet servers."
 msgstr "몇몇의 Akismet 서버에 접근할 수 없습니다."
 
 #: wp-content/plugins/akismet/admin.php:191
-msgid "A network problem or firewall is blocking some connections from your web server to Akismet.com.  Akismet is working but this may cause problems during times of network congestion.  Please contact your web host or firewall administrator and give them <a href=\"%s\" target=\"_blank\">this information about Akismet and firewalls</a>."
-msgstr "네트워크 문제나 방화벽으로 인해 웹서버에서 Akismet.com으로 접근하는 몇몇의 연결이 차단되어있습니다.  Akismet은 작동하겠지만 네트워크 혼잡시에 문제를 일으킬 수 있습니다. 웹호스트나 방화벽 관리자에게 연락하여 <a href=\"%s\" target=\"_blank\">Akismet과 방화벽에 관한 이 정보를 전해주십시오</a>."
+msgid ""
+"A network problem or firewall is blocking some connections from your web "
+"server to Akismet.com.  Akismet is working but this may cause problems "
+"during times of network congestion.  Please contact your web host or "
+"firewall administrator and give them <a href=\"%s\" target=\"_blank\">this "
+"information about Akismet and firewalls</a>."
+msgstr ""
+"네트워크 문제나 방화벽으로 인해 웹서버에서 Akismet.com으로 접근하는 몇몇의 연"
+"결이 차단되어있습니다.  Akismet은 작동하겠지만 네트워크 혼잡시에 문제를 일으"
+"킬 수 있습니다. 웹호스트나 방화벽 관리자에게 연락하여 <a href=\"%s\" target="
+"\"_blank\">Akismet과 방화벽에 관한 이 정보를 전해주십시오</a>."
 
 #: wp-content/plugins/akismet/admin.php:195
 msgid "Unable to reach any Akismet servers."
 msgstr "모든 Akismet 서버에 접근할 수 없습니다."
 
 #: wp-content/plugins/akismet/admin.php:196
-msgid "A network problem or firewall is blocking all connections from your web server to Akismet.com.  <strong>Akismet cannot work correctly until this is fixed.</strong>  Please contact your web host or firewall administrator and give them <a href=\"%s\" target=\"_blank\">this information about Akismet and firewalls</a>."
-msgstr "네트워크 문제나 방화벽으로 인해 웹서버에서 Akismet.com으로 접근하는 모든 연결이 차단이 되어있습니다.  <strong>이 문제가 해결되기 전에는 Akismet이 제대로 작동할 수 없습니다.</strong>  웹호스트나 방화벽 관리자에게 연락하여 <a href=\"%s\" target=\"_blank\">Akismet 과 방화벽에 관한 이 정보를 전해주십시오</a>."
+msgid ""
+"A network problem or firewall is blocking all connections from your web "
+"server to Akismet.com.  <strong>Akismet cannot work correctly until this is "
+"fixed.</strong>  Please contact your web host or firewall administrator and "
+"give them <a href=\"%s\" target=\"_blank\">this information about Akismet "
+"and firewalls</a>."
+msgstr ""
+"네트워크 문제나 방화벽으로 인해 웹서버에서 Akismet.com으로 접근하는 모든 연결"
+"이 차단이 되어있습니다.  <strong>이 문제가 해결되기 전에는 Akismet이 제대로 "
+"작동할 수 없습니다.</strong>  웹호스트나 방화벽 관리자에게 연락하여 <a href="
+"\"%s\" target=\"_blank\">Akismet 과 방화벽에 관한 이 정보를 전해주십시오</a>."
 
 #: wp-content/plugins/akismet/admin.php:200
 msgid "All Akismet servers are available."
@@ -4123,8 +4662,17 @@ msgid "Unable to find Akismet servers."
 msgstr "Akismet 서버를 찾을 수 없습니다."
 
 #: wp-content/plugins/akismet/admin.php:207
-msgid "A DNS problem or firewall is preventing all access from your web server to Akismet.com.  <strong>Akismet cannot work correctly until this is fixed.</strong>  Please contact your web host or firewall administrator and give them <a href=\"%s\" target=\"_blank\">this information about Akismet and firewalls</a>."
-msgstr "DNS 문제나 방화벽이 웹서버가 Akismet.com으로 접속하는 것을 방해하고 있습니다.  <strong>이 문제가 해결되기 전에는 Akismet이 제대로 작동할 수 없습니다.</strong>  웹호스트나 방화벽 관리자에게 연락하여 <a href=\"%s\" target=\"_blank\">Akismet과 방화벽에 관한 이 정보를 전해주십시오</a>."
+msgid ""
+"A DNS problem or firewall is preventing all access from your web server to "
+"Akismet.com.  <strong>Akismet cannot work correctly until this is fixed.</"
+"strong>  Please contact your web host or firewall administrator and give "
+"them <a href=\"%s\" target=\"_blank\">this information about Akismet and "
+"firewalls</a>."
+msgstr ""
+"DNS 문제나 방화벽이 웹서버가 Akismet.com으로 접속하는 것을 방해하고 있습니"
+"다.  <strong>이 문제가 해결되기 전에는 Akismet이 제대로 작동할 수 없습니다.</"
+"strong>  웹호스트나 방화벽 관리자에게 연락하여 <a href=\"%s\" target=\"_blank"
+"\">Akismet과 방화벽에 관한 이 정보를 전해주십시오</a>."
 
 #: wp-content/plugins/akismet/admin.php:215
 msgid "Akismet server"
@@ -4151,8 +4699,12 @@ msgid "Check network status &raquo;"
 msgstr "네트워크 상태 체크 &raquo;"
 
 #: wp-content/plugins/akismet/admin.php:234
-msgid "<a href=\"%s\" target=\"_blank\">Click here</a> to confirm that <a href=\"%s\" target=\"_blank\">Akismet.com is up</a>."
-msgstr "<a href=\"%s\" target=\"_blank\">Akismet.com</a>확인을 위해 <a href=\"%s\" target=\"_blank\">여기를 클릭하세요</a>."
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Click here</a> to confirm that <a href=\"%s"
+"\" target=\"_blank\">Akismet.com is up</a>."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Akismet.com</a>확인을 위해 <a href=\"%s\" "
+"target=\"_blank\">여기를 클릭하세요</a>."
 
 #: wp-content/plugins/akismet/admin.php:265
 msgctxt "comments"
@@ -4160,25 +4712,40 @@ msgid "Spam"
 msgstr "스팸"
 
 #: wp-content/plugins/akismet/admin.php:271
-msgid "<a href=\"%1$s\">Akismet</a> has protected your site from <a href=\"%2$s\">%3$s spam comments</a>."
-msgid_plural "<a href=\"%1$s\">Akismet</a> has protected your site from <a href=\"%2$s\">%3$s spam comments</a>."
-msgstr[0] "<a href=\"%1$s\">Akismet</a>이 <a href=\"%2$s\">%3$s개의 스팸 댓글</a>로부터 사이트를 지켰습니다."
+msgid ""
+"<a href=\"%1$s\">Akismet</a> has protected your site from <a href=\"%2$s\">"
+"%3$s spam comments</a>."
+msgid_plural ""
+"<a href=\"%1$s\">Akismet</a> has protected your site from <a href=\"%2$s\">"
+"%3$s spam comments</a>."
+msgstr[0] ""
+"<a href=\"%1$s\">Akismet</a>이 <a href=\"%2$s\">%3$s개의 스팸 댓글</a>로부터 "
+"사이트를 지켰습니다."
 
 #: wp-content/plugins/akismet/admin.php:305
 msgid "Akismet is almost ready."
 msgstr "Akismet이 거의 준비되었습니다."
 
 #: wp-content/plugins/akismet/admin.php:305
-msgid "You must <a href=\"%1$s\">enter your Akismet API key</a> for it to work."
-msgstr "이것을 작동시키기 위해서는 <a href=\"%1$s\">Akismet API 키</a>를 입력해야 합니다."
+msgid ""
+"You must <a href=\"%1$s\">enter your Akismet API key</a> for it to work."
+msgstr ""
+"이것을 작동시키기 위해서는 <a href=\"%1$s\">Akismet API 키</a>를 입력해야 합"
+"니다."
 
 #: wp-content/plugins/akismet/admin.php:318
 msgid "Akismet has detected a problem."
 msgstr "Akismet이 문제를 찾아냄."
 
 #: wp-content/plugins/akismet/admin.php:318
-msgid "Some comments have not yet been checked for spam by Akismet. They have been temporarily held for moderation. Please check your <a href=\"%s\">Akismet configuration</a> and contact your web host if problems persist."
-msgstr "몇개의 댓글이 아키스밋에 의해 스팸 점검이 아직 안됐습니다. 검토를 위해 잠시 보류중입니다. 문제가 지속되면 <a href=\"%s\">Akismet 환경설정</a>을 점검하고 웹호스트에 연락하세요."
+msgid ""
+"Some comments have not yet been checked for spam by Akismet. They have been "
+"temporarily held for moderation. Please check your <a href=\"%s\">Akismet "
+"configuration</a> and contact your web host if problems persist."
+msgstr ""
+"몇개의 댓글이 아키스밋에 의해 스팸 점검이 아직 안됐습니다. 검토를 위해 잠시 "
+"보류중입니다. 문제가 지속되면 <a href=\"%s\">Akismet 환경설정</a>을 점검하고 "
+"웹호스트에 연락하세요."
 
 #: wp-content/plugins/akismet/admin.php:340
 msgid "Awaiting spam check"
@@ -4224,9 +4791,14 @@ msgid "Akismet"
 msgstr "Akismet"
 
 #: wp-content/plugins/akismet/admin.php:462
-msgid "<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comment already. "
-msgid_plural "<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comments already. "
-msgstr[0] "<a href=\"%1$s\">Akismet</a>이 %2$s 개의 스팸 댓글로부터 사이트를 지켰습니다."
+msgid ""
+"<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comment "
+"already. "
+msgid_plural ""
+"<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comments "
+"already. "
+msgstr[0] ""
+"<a href=\"%1$s\">Akismet</a>이 %2$s 개의 스팸 댓글로부터 사이트를 지켰습니다."
 
 #: wp-content/plugins/akismet/admin.php:468
 msgid "<a href=\"%1$s\">Akismet</a> blocks spam from getting to your blog. "
@@ -4234,7 +4806,8 @@ msgstr "<a href\"%1$s\">Akismet</a>가 스팸을 막아줍니다."
 
 #: wp-content/plugins/akismet/admin.php:473
 msgid "There's <a href=\"%2$s\">%1$s comment</a> in your spam queue right now."
-msgid_plural "There are <a href=\"%2$s\">%1$s comments</a> in your spam queue right now."
+msgid_plural ""
+"There are <a href=\"%2$s\">%1$s comments</a> in your spam queue right now."
 msgstr[0] "그리고 현재 스팸함에 <a href=\"%2$s\">%1$s개 댓글</a>이 있습니다."
 
 #: wp-content/plugins/akismet/admin.php:479
@@ -4292,8 +4865,12 @@ msgid "Comment was caught by wp_blacklist_check"
 msgstr "wp_blacklist_check으로부터 댓글을 잡았습니다"
 
 #: wp-content/plugins/akismet/akismet.php:307
-msgid "Akismet was unable to check this comment (response: %s), will automatically retry again later."
-msgstr "Akismet은 이 댓글을 확인할 수 없으며(응답: %s), 나중에 자동적으로 재시도를 할 것 입니다."
+msgid ""
+"Akismet was unable to check this comment (response: %s), will automatically "
+"retry again later."
+msgstr ""
+"Akismet은 이 댓글을 확인할 수 없으며(응답: %s), 나중에 자동적으로 재시도를 "
+"할 것 입니다."
 
 #: wp-content/plugins/akismet/akismet.php:541
 msgid "Akismet caught this comment as spam during an automatic retry."
@@ -4330,7 +4907,9 @@ msgid "Caught Spam"
 msgstr "스팸을 잡았습니다"
 
 #: wp-content/plugins/akismet/legacy.php:153
-msgid "Akismet has caught <strong>%1$s spam</strong> for you since you first installed it."
+msgid ""
+"Akismet has caught <strong>%1$s spam</strong> for you since you first "
+"installed it."
 msgstr "Akismet이 설치된 이후로 <strong>%1$s</strong>개를 잡았습니다."
 
 #: wp-content/plugins/akismet/legacy.php:160
@@ -4338,8 +4917,15 @@ msgid "You have no spam currently in the queue. Must be your lucky day. :)"
 msgstr "이곳에 아직 스팸이 없습니다. 행운이 따르는 날입니다. :)"
 
 #: wp-content/plugins/akismet/legacy.php:163
-msgid "You can delete all of the spam from your database with a single click. This operation cannot be undone, so you may wish to check to ensure that no legitimate comments got through first. Spam is automatically deleted after 15 days, so don&#8217;t sweat it."
-msgstr "한 번의 클릭으로 데이터베이스의 모른 스팸을 지울 수 있습니다. 이것은 되돌릴 수 없으므로, 스팸이 아닌 댓글이 있는지 먼저 확인하시기를 권합니다. 스팸은 15일 후 자동으로 지워지므로, 너무 급하게 행동하지 마십시오."
+msgid ""
+"You can delete all of the spam from your database with a single click. This "
+"operation cannot be undone, so you may wish to check to ensure that no "
+"legitimate comments got through first. Spam is automatically deleted after "
+"15 days, so don&#8217;t sweat it."
+msgstr ""
+"한 번의 클릭으로 데이터베이스의 모른 스팸을 지울 수 있습니다. 이것은 되돌릴 "
+"수 없으므로, 스팸이 아닌 댓글이 있는지 먼저 확인하시기를 권합니다. 스팸은 15"
+"일 후 자동으로 지워지므로, 너무 급하게 행동하지 마십시오."
 
 #: wp-content/plugins/akismet/legacy.php:169
 #: wp-content/plugins/akismet/legacy.php:347
@@ -4358,8 +4944,17 @@ msgid "Search"
 msgstr "검색"
 
 #: wp-content/plugins/akismet/legacy.php:178
-msgid "These are the latest comments identified as spam by Akismet. If you see any mistakes, simply mark the comment as \"not spam\" and Akismet will learn from the submission. If you wish to recover a comment from spam, simply select the comment, and click Not Spam. After 15 days we clean out the junk for you."
-msgstr "이것들은 Akismet에 의해 스팸으로 분류된 최근 댓글입니다. 만약 잘못된 것을 발견한다면, 간단히 \"스팸 아님\" 에 표시하면 다음부터는 스팸으로 분류하지 않을 것입니다. 이 댓글이 스팸이 아니라고 표시하려면, 간단히 댓글을 선택하고, 스팸 아님 을 클릭하세요. 15일 후에는 스팸을 자동적으로 비웁니다."
+msgid ""
+"These are the latest comments identified as spam by Akismet. If you see any "
+"mistakes, simply mark the comment as \"not spam\" and Akismet will learn "
+"from the submission. If you wish to recover a comment from spam, simply "
+"select the comment, and click Not Spam. After 15 days we clean out the junk "
+"for you."
+msgstr ""
+"이것들은 Akismet에 의해 스팸으로 분류된 최근 댓글입니다. 만약 잘못된 것을 발"
+"견한다면, 간단히 \"스팸 아님\" 에 표시하면 다음부터는 스팸으로 분류하지 않을 "
+"것입니다. 이 댓글이 스팸이 아니라고 표시하려면, 간단히 댓글을 선택하고, 스팸 "
+"아님 을 클릭하세요. 15일 후에는 스팸을 자동적으로 비웁니다."
 
 #: wp-content/plugins/akismet/legacy.php:209
 msgid "All"
@@ -4375,14 +4970,14 @@ msgid "Search Spam &raquo;"
 msgstr "스팸 검색 &raquo;"
 
 #: wp-content/plugins/akismet/legacy.php:239
-#: wp-content/plugins/akismet/legacy.php:306 wp-includes/link-template.php:1606
-#: wp-includes/link-template.php:1642
+#: wp-content/plugins/akismet/legacy.php:306
+#: wp-includes/link-template.php:1606 wp-includes/link-template.php:1642
 msgid "&laquo; Previous Page"
 msgstr "&laquo; 앞 쪽"
 
 #: wp-content/plugins/akismet/legacy.php:260
-#: wp-content/plugins/akismet/legacy.php:327 wp-includes/link-template.php:1535
-#: wp-includes/link-template.php:1643
+#: wp-content/plugins/akismet/legacy.php:327
+#: wp-includes/link-template.php:1535 wp-includes/link-template.php:1643
 msgid "Next Page &raquo;"
 msgstr "뒷 쪽 &raquo;"
 
@@ -4403,8 +4998,12 @@ msgid "De-spam marked comments &raquo;"
 msgstr "스팸 댓글표시 지우기 &raquo;"
 
 #: wp-content/plugins/akismet/legacy.php:335
-msgid "Comments you de-spam will be submitted to Akismet as mistakes so it can learn and get better."
-msgstr "스팸 댓글이 아니라고 입력한 댓글은 Akismet이 실수라고 전송할 것이고 Akismet이 배우고 더 좋아질 것 입니다."
+msgid ""
+"Comments you de-spam will be submitted to Akismet as mistakes so it can "
+"learn and get better."
+msgstr ""
+"스팸 댓글이 아니라고 입력한 댓글은 Akismet이 실수라고 전송할 것이고 Akismet"
+"이 배우고 더 좋아질 것 입니다."
 
 #: wp-content/plugins/akismet/legacy.php:340
 msgid "No results found."
@@ -4436,9 +5035,15 @@ msgid "Title:"
 msgstr "제목:"
 
 #: wp-content/plugins/akismet/widget.php:96
-msgid "<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</strong>"
-msgid_plural "<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</strong>"
-msgstr[0] "<strong>아키스밋</strong>이 차단한 <strong class=\"count\">%1$s 스팸</strong> "
+msgid ""
+"<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</"
+"strong>"
+msgid_plural ""
+"<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</"
+"strong>"
+msgstr[0] ""
+"<strong>아키스밋</strong>이 차단한 <strong class=\"count\">%1$s 스팸</"
+"strong> "
 
 #: wp-includes/admin-bar.php:80 wp-includes/admin-bar.php:89
 msgid "About WordPress"
@@ -4602,7 +5207,9 @@ msgid "XML error: %s at line %d"
 msgstr "XML 오류: %s( %d줄에서)"
 
 #: wp-includes/author-template.php:55
-msgid "Use <code>get_the_author()</code> instead if you do not want the value echoed."
+msgid ""
+"Use <code>get_the_author()</code> instead if you do not want the value "
+"echoed."
 msgstr "만약 값이 반복되길 원치 않는다면 get_the_author() 를 사용하세요."
 
 #: wp-includes/author-template.php:137
@@ -4627,8 +5234,12 @@ msgid "Use <code>WP_User->ID</code> instead."
 msgstr "대신<code>WP_User->ID</code>를 사용하세요."
 
 #: wp-includes/capabilities.php:920
-msgid "Usage of user levels by plugins and themes is deprecated. Use roles and capabilities instead."
-msgstr "플러그인으로부터의 사용자 레벨의 사용과 테마는 사용중지되었습니다. 역할 및 기능을 대신 사용하세요."
+msgid ""
+"Usage of user levels by plugins and themes is deprecated. Use roles and "
+"capabilities instead."
+msgstr ""
+"플러그인으로부터의 사용자 레벨의 사용과 테마는 사용중지되었습니다. 역할 및 기"
+"능을 대신 사용하세요."
 
 #: wp-includes/category-template.php:59 wp-includes/category-template.php:174
 #: wp-includes/category-template.php:177 wp-includes/category-template.php:184
@@ -4676,11 +5287,15 @@ msgid "User has blocked requests through HTTP."
 msgstr "사용자가 HTTP를 통해 요청이 차단되었습니다."
 
 #: wp-includes/class-http.php:145
-msgid "Destination directory for file streaming does not exist or is not writable."
-msgstr "파일 스트리밍을 위한 대상 디렉터리가 존재하지 않거나 쓰기 가능하지 않습니다."
+msgid ""
+"Destination directory for file streaming does not exist or is not writable."
+msgstr ""
+"파일 스트리밍을 위한 대상 디렉터리가 존재하지 않거나 쓰기 가능하지 않습니다."
 
 #: wp-includes/class-http.php:244
-msgid "There are no HTTP transports available which can complete the requested request."
+msgid ""
+"There are no HTTP transports available which can complete the requested "
+"request."
 msgstr "사용가능한 HTTP 전송이 없어서 요청한 요구를 완료할 수 없습니다."
 
 #: wp-includes/class-http.php:742 wp-includes/class-http.php:924
@@ -4828,12 +5443,20 @@ msgstr "이미지 삭제"
 
 #: wp-includes/class-wp-customize-control.php:597
 #: wp-includes/media-template.php:51
-msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
-msgstr "사용중인 기기의 웹브라우저는 파일 업로드에 사용될 수 없습니다. 대신에 <a href=\"http://wordpress.org/extend/mobile/\">사용자 기기용 네이티브 앱</a>을 사용할 수 있습니다."
+msgid ""
+"The web browser on your device cannot be used to upload files. You may be "
+"able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app "
+"for your device</a> instead."
+msgstr ""
+"사용중인 기기의 웹브라우저는 파일 업로드에 사용될 수 없습니다. 대신에 <a "
+"href=\"http://wordpress.org/extend/mobile/\">사용자 기기용 네이티브 앱</a>을 "
+"사용할 수 있습니다."
 
 #: wp-includes/class-wp-customize-control.php:602
 msgid "Drop a file here or <a href=\"#\" class=\"upload\">select a file</a>."
-msgstr "여기에 파일을 끌어오기 하거나 또는 <a href=\"#\" class=\"upload\">파일 선택하기</a>."
+msgstr ""
+"여기에 파일을 끌어오기 하거나 또는 <a href=\"#\" class=\"upload\">파일 선택하"
+"기</a>."
 
 #: wp-includes/class-wp-customize-control.php:605
 msgid "Select File"
@@ -4952,11 +5575,13 @@ msgstr "내비게이션"
 
 #: wp-includes/class-wp-customize-manager.php:894
 msgid "Your theme supports %s menu. Select which menu you would like to use."
-msgid_plural "Your theme supports %s menus. Select which menu appears in each location."
+msgid_plural ""
+"Your theme supports %s menus. Select which menu appears in each location."
 msgstr[0] "테마는 %s 메뉴를 지원합니다. 어떤 메뉴를 사용할지 선택하세요."
 
 #: wp-includes/class-wp-customize-manager.php:894
-msgid "You can edit your menu content on the Menus screen in the Appearance section."
+msgid ""
+"You can edit your menu content on the Menus screen in the Appearance section."
 msgstr "외모 섹션의 메뉴 화면에서 메뉴 컨텐츠를 편집할 수 있습니다."
 
 #: wp-includes/class-wp-customize-manager.php:926
@@ -4997,8 +5622,12 @@ msgid "Visual"
 msgstr "비주얼"
 
 #: wp-includes/class-wp-editor.php:295
-msgid "English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr,German=de,Italian=it,Polish=pl,Portuguese=pt,Spanish=es,Swedish=sv"
-msgstr "English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr,German=de,Italian=it,Polish=pl,Portuguese=pt,Spanish=es,Swedish=sv"
+msgid ""
+"English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr,German=de,Italian=it,"
+"Polish=pl,Portuguese=pt,Spanish=es,Swedish=sv"
+msgstr ""
+"English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr,German=de,Italian=it,"
+"Polish=pl,Portuguese=pt,Spanish=es,Swedish=sv"
 
 #: wp-includes/class-wp-editor.php:664
 #: wp-includes/js/tinymce/langs/wp-langs.php:21
@@ -5178,7 +5807,9 @@ msgid "Stylesheet is missing."
 msgstr "스타일시트를 찾을 수 없습니다."
 
 #: wp-includes/class-wp-theme.php:214
-msgid "ERROR: The themes directory is either empty or doesn&#8217;t exist. Please check your installation."
+msgid ""
+"ERROR: The themes directory is either empty or doesn&#8217;t exist. Please "
+"check your installation."
 msgstr "에러: 테마 디렉토리가 비어있거나 존재하지 않습니다. 설치를 점검하세요."
 
 #: wp-includes/class-wp-theme.php:218
@@ -5365,7 +5996,9 @@ msgid "Sorry, you are not allowed to publish posts in this post type"
 msgstr "죄송합니다. 이 글 타입으로 글 발행 권한이 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1039
-msgid "Sorry, you are not allowed to create password protected posts in this post type"
+msgid ""
+"Sorry, you are not allowed to create password protected posts in this post "
+"type"
 msgstr "죄송합니다. 이 글 타입으로 비밀번호 보호된 글을 만들 수 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1044
@@ -5400,7 +6033,8 @@ msgstr "죄송합니다. 주어진 택소노리중 하나가 글 타입에서 �
 
 #: wp-includes/class-wp-xmlrpc-server.php:1124
 #: wp-includes/class-wp-xmlrpc-server.php:1147
-msgid "Sorry, you are not allowed to assign a term to one of the given taxonomies."
+msgid ""
+"Sorry, you are not allowed to assign a term to one of the given taxonomies."
 msgstr "죄송합니다. 주어진 택소노미중 용어를 배정할 권한이 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1131
@@ -5411,11 +6045,16 @@ msgid "Invalid term ID"
 msgstr "잘못된 용어 ID"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1166
-msgid "Ambiguous term name used in a hierarchical taxonomy. Please use term ID instead."
-msgstr "계층구조 택소노미에 사용된 애매한 용어 이름입니다. 대신 용어 아이디를 사용하세요."
+msgid ""
+"Ambiguous term name used in a hierarchical taxonomy. Please use term ID "
+"instead."
+msgstr ""
+"계층구조 택소노미에 사용된 애매한 용어 이름입니다. 대신 용어 아이디를 사용하"
+"세요."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1173
-msgid "Sorry, you are not allowed to add a term to one of the given taxonomies."
+msgid ""
+"Sorry, you are not allowed to add a term to one of the given taxonomies."
 msgstr "죄송합니다. 주어진 택소노미 중 용어를 추가할 권한이 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1217
@@ -5571,8 +6210,10 @@ msgid "Sorry, you cannot edit posts on this site."
 msgstr "죄송합니다. 이 사이트에서 글을 편집할 수 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2552
-msgid "Sorry, you must be able to edit posts on this site in order to view tags."
-msgstr "죄송합니다. 태그를 보기 위해서는 이 사이트에서 글을 편집할 수 있어야 됩니다."
+msgid ""
+"Sorry, you must be able to edit posts on this site in order to view tags."
+msgstr ""
+"죄송합니다. 태그를 보기 위해서는 이 사이트에서 글을 편집할 수 있어야 됩니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2597
 msgid "Sorry, you do not have the right to add a category."
@@ -5588,8 +6229,12 @@ msgid "Sorry, you do not have the right to delete a category."
 msgstr "죄송합니다. 카테고리를 지울 권한이 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2688
-msgid "Sorry, you must be able to edit posts to this site in order to view categories."
-msgstr "죄송합니다. 카테고리를 보기 위해서는 이 사이트의 글을 편집할 수 있어야 됩니다."
+msgid ""
+"Sorry, you must be able to edit posts to this site in order to view "
+"categories."
+msgstr ""
+"죄송합니다. 카테고리를 보기 위해서는 이 사이트의 글을 편집할 수 있어야 됩니"
+"다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2724
 #: wp-includes/class-wp-xmlrpc-server.php:2825
@@ -5703,7 +6348,8 @@ msgid "Sorry, you do not have the right to publish this post."
 msgstr "이 글을 제출할 권한이 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3945
-msgid "For some strange yet very annoying reason, this post could not be edited."
+msgid ""
+"For some strange yet very annoying reason, this post could not be edited."
 msgstr "약간 이상하고 성가신 이유로, 이 글은 편집할 수 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3981
@@ -5711,7 +6357,8 @@ msgid "Sorry, you do not have the right to delete this post."
 msgstr "이 글을 지울 권한이 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3986
-msgid "For some strange yet very annoying reason, this post could not be deleted."
+msgid ""
+"For some strange yet very annoying reason, this post could not be deleted."
 msgstr "약간 이상하고 성가신 이유로, 이 글은 삭제될 수 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4055
@@ -5751,8 +6398,12 @@ msgstr "글을 편집할 수 없습니다. 뭔가 잘못된 일이 생겼습니�
 
 #: wp-includes/class-wp-xmlrpc-server.php:4872
 #: wp-includes/class-wp-xmlrpc-server.php:5071
-msgid "Sorry, you must be able to edit posts on this site in order to view categories."
-msgstr "죄송합니다. 카테고리를 보기 위해서는 이 사이트에서 글을 편집할 수 있어야합니다."
+msgid ""
+"Sorry, you must be able to edit posts on this site in order to view "
+"categories."
+msgstr ""
+"죄송합니다. 카테고리를 보기 위해서는 이 사이트에서 글을 편집할 수 있어야합니"
+"다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4952
 msgid "Could not write file %1$s (%2$s)"
@@ -5774,11 +6425,16 @@ msgstr "링크가 없습니까?"
 #: wp-includes/class-wp-xmlrpc-server.php:5366
 #: wp-includes/class-wp-xmlrpc-server.php:5373
 #: wp-includes/class-wp-xmlrpc-server.php:5480
-msgid "The specified target URL cannot be used as a target. It either doesn&#8217;t exist, or it is not a pingback-enabled resource."
-msgstr "선택한 타겟 URL은 타겟으로 사용할 수 없습니다. 존재하지 않거나 핑백이 허용된 리소스가 아닙니다."
+msgid ""
+"The specified target URL cannot be used as a target. It either doesn&#8217;t "
+"exist, or it is not a pingback-enabled resource."
+msgstr ""
+"선택한 타겟 URL은 타겟으로 사용할 수 없습니다. 존재하지 않거나 핑백이 허용된 "
+"리소스가 아닙니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5369
-msgid "The source URL and the target URL cannot both point to the same resource."
+msgid ""
+"The source URL and the target URL cannot both point to the same resource."
 msgstr "소스 URL과 target URL이 같은 리소스를 둘 다 가리킬 수 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5377
@@ -5794,12 +6450,17 @@ msgid "We cannot find a title on that page."
 msgstr "그 페이지의 제목을 찾을 수 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5433
-msgid "The source URL does not contain a link to the target URL, and so cannot be used as a source."
-msgstr "소스 URL은 target URL의 링크를 포함하고 있지 않습니다. 그래서 소스로 사용할 수 없습니다."
+msgid ""
+"The source URL does not contain a link to the target URL, and so cannot be "
+"used as a source."
+msgstr ""
+"소스 URL은 target URL의 링크를 포함하고 있지 않습니다. 그래서 소스로 사용할 "
+"수 없습니다."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5454
 msgid "Pingback from %1$s to %2$s registered. Keep the web talking! :-)"
-msgstr "%1$s에서 %2$s(으)로 보내는 핑백이 등록되었습니다. Keep the web talking! :-)"
+msgstr ""
+"%1$s에서 %2$s(으)로 보내는 핑백이 등록되었습니다. Keep the web talking! :-)"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5487
 msgid "The specified target URL does not exist."
@@ -5831,7 +6492,9 @@ msgid "Pingback"
 msgstr "핑백"
 
 #: wp-includes/comment-template.php:726
-msgid "Use <code>get_trackback_url()</code> instead if you do not want the value echoed."
+msgid ""
+"Use <code>get_trackback_url()</code> instead if you do not want the value "
+"echoed."
 msgstr "만약 값이 반복되길 원치 않는다면 get_trackback_url() 을 사용하세요."
 
 #: wp-includes/comment-template.php:976
@@ -5917,16 +6580,24 @@ msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
 msgstr "죄송합니다,<a href=\"%s\">로그인</a>을 해야 댓글을 남길 수 있습니다."
 
 #: wp-includes/comment-template.php:1537
-msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
-msgstr "<a href=\"%1$s\">%2$s</a>님으로 로그인함. <a href=\"%3$s\" title=\"Log out of this account\">로그아웃?</a>"
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a>님으로 로그인함. <a href=\"%3$s\" title=\"Log out "
+"of this account\">로그아웃?</a>"
 
 #: wp-includes/comment-template.php:1538
 msgid "Your email address will not be published."
 msgstr "이메일은 공개되지 않습니다."
 
 #: wp-includes/comment-template.php:1539
-msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
-msgstr "다음의 <abbr title=\"HyperText Markup Language\">HTML</abbr> 태그와 속성을 사용할 수 있습니다: %s"
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"다음의 <abbr title=\"HyperText Markup Language\">HTML</abbr> 태그와 속성을 사"
+"용할 수 있습니다: %s"
 
 #: wp-includes/comment-template.php:1544
 msgid "Cancel reply"
@@ -5951,7 +6622,9 @@ msgid "Spam"
 msgstr "스팸"
 
 #: wp-includes/comment.php:679 wp-includes/comment.php:681
-msgid "Duplicate comment detected; it looks as though you&#8217;ve already said that!"
+msgid ""
+"Duplicate comment detected; it looks as though you&#8217;ve already said "
+"that!"
 msgstr "중복된 댓글이 발견되었습니다; 이미 댓글을 다신 것 같습니다!"
 
 #: wp-includes/comment.php:738 wp-includes/comment.php:740
@@ -5963,8 +6636,11 @@ msgid "Could not update comment status"
 msgstr "댓글 상태를 업데이트할 수 없습니다."
 
 #: wp-includes/cron.php:159
-msgid "This argument has changed to an array to match the behavior of the other cron functions."
-msgstr "이 인수는 배열에 따른 다른 크론 기능의 동작과 일치하도록 변경되었습니다."
+msgid ""
+"This argument has changed to an array to match the behavior of the other "
+"cron functions."
+msgstr ""
+"이 인수는 배열에 따른 다른 크론 기능의 동작과 일치하도록 변경되었습니다."
 
 #: wp-includes/cron.php:321
 msgid "Once Hourly"
@@ -6116,7 +6792,8 @@ msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
 msgstr "댓글 <abbr title=\"Really Simple Syndication\">RSS</abbr>"
 
 #: wp-includes/default-widgets.php:318 wp-includes/theme-compat/sidebar.php:75
-msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
 msgstr "이 블로그는 가장 앞선 개인 출판 도구, 워드프레스로 운영합니다."
 
 #: wp-includes/default-widgets.php:352
@@ -6205,8 +6882,12 @@ msgid "<strong>RSS Error</strong>: %s"
 msgstr "<strong>RSS 에러:</strong> %s"
 
 #: wp-includes/default-widgets.php:847 wp-includes/rss.php:895
-msgid "An error has occurred, which probably means the feed is down. Try again later."
-msgstr "오류가 발생했습니다. 아마도 피드가 다운된 것 같습니다. 잠시후에 다시 시도하십시오."
+msgid ""
+"An error has occurred, which probably means the feed is down. Try again "
+"later."
+msgstr ""
+"오류가 발생했습니다. 아마도 피드가 다운된 것 같습니다. 잠시후에 다시 시도하십"
+"시오."
 
 #: wp-includes/default-widgets.php:861
 msgid "Untitled"
@@ -6276,7 +6957,8 @@ msgstr "메뉴 선택:"
 msgid "new WordPress Loop"
 msgstr "새 워드프레스 루프"
 
-#: wp-includes/deprecated.php:707 wp-includes/js/tinymce/langs/wp-langs.php:520
+#: wp-includes/deprecated.php:707
+#: wp-includes/js/tinymce/langs/wp-langs.php:520
 #: wp-includes/media-template.php:276 wp-includes/media-template.php:301
 #: wp-includes/media-template.php:414 wp-includes/media-template.php:429
 msgid "None"
@@ -6412,19 +7094,28 @@ msgid "words"
 msgstr "단어들"
 
 #: wp-includes/formatting.php:2764
-msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
-msgstr "입력하신 이메일은 유효한 이메일이 아닙니다. 유효한 이메일을 입력하세요."
+msgid ""
+"The email address entered did not appear to be a valid email address. Please "
+"enter a valid email address."
+msgstr ""
+"입력하신 이메일은 유효한 이메일이 아닙니다. 유효한 이메일을 입력하세요."
 
 #: wp-includes/formatting.php:2851
-msgid "The WordPress address you entered did not appear to be a valid URL. Please enter a valid URL."
-msgstr "입력하신 워드프레스 주소는 유효한 URL이 아닙니다. 유효한 URL을 입력하세요."
+msgid ""
+"The WordPress address you entered did not appear to be a valid URL. Please "
+"enter a valid URL."
+msgstr ""
+"입력하신 워드프레스 주소는 유효한 URL이 아닙니다. 유효한 URL을 입력하세요."
 
 #: wp-includes/formatting.php:2861
-msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
+msgid ""
+"The Site address you entered did not appear to be a valid URL. Please enter "
+"a valid URL."
 msgstr "입력하신 사이트 주소는 유효한 URL이 아닙니다. 유효한 URL을 입력하세요."
 
 #: wp-includes/formatting.php:2902
-msgid "The timezone you have entered is not valid. Please select a valid timezone."
+msgid ""
+"The timezone you have entered is not valid. Please select a valid timezone."
 msgstr "입력한 시간대가 잘못된 것 같습니다. 유효한 시간대를 선택해주세요."
 
 #: wp-includes/formatting.php:3057
@@ -6440,12 +7131,19 @@ msgid "ERROR: %s is not a valid feed template."
 msgstr "에러: %s는 올바른 피드 템플릿이 아닙니다."
 
 #: wp-includes/functions.php:1153
-msgid "One or more database tables are unavailable. The database may need to be <a href=\"%s\">repaired</a>."
-msgstr "하나 이상의 데이터베이스 테이블이 불가능합니다. 데이터베이스는 <a href=\"%s\">수리</a>가 필요할 수도 있습니다."
+msgid ""
+"One or more database tables are unavailable. The database may need to be <a "
+"href=\"%s\">repaired</a>."
+msgstr ""
+"하나 이상의 데이터베이스 테이블이 불가능합니다. 데이터베이스는 <a href=\"%s"
+"\">수리</a>가 필요할 수도 있습니다."
 
 #: wp-includes/functions.php:1602 wp-includes/functions.php:1725
-msgid "Unable to create directory %s. Is its parent directory writable by the server?"
-msgstr "디렉토리 %s를 만들 수 없습니다. 서버에서 부모 디렉토리에 쓰기가 가능합니까?"
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+"디렉토리 %s를 만들 수 없습니다. 서버에서 부모 디렉토리에 쓰기가 가능합니까?"
 
 #: wp-includes/functions.php:1699
 msgid "Empty filename"
@@ -6492,28 +7190,45 @@ msgid "Error establishing a database connection"
 msgstr "데이터베이스 연결중 에러"
 
 #: wp-includes/functions.php:2839 wp-includes/functions.php:2879
-msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
-msgstr "%1$s는 버전 %2$s부터 <strong>사용 중단</strong>되었습니다! 대신 %3$s를 사용하십시오."
+msgid ""
+"%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr ""
+"%1$s는 버전 %2$s부터 <strong>사용 중단</strong>되었습니다! 대신 %3$s를 사용하"
+"십시오."
 
 #: wp-includes/functions.php:2841 wp-includes/functions.php:2881
-msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
-msgstr "%1$s는 버전 %2$s때부터 대체할 내용이 없이 <strong>사용중단</strong>되었습니다."
+msgid ""
+"%1$s is <strong>deprecated</strong> since version %2$s with no alternative "
+"available."
+msgstr ""
+"%1$s는 버전 %2$s때부터 대체할 내용이 없이 <strong>사용중단</strong>되었습니"
+"다."
 
 #: wp-includes/functions.php:2923
-msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s! %3$s"
+msgid ""
+"%1$s was called with an argument that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
 msgstr "%1$s는 버전 %2$s부터 <strong>사용중단</strong>되었습니다! %3$s"
 
 #: wp-includes/functions.php:2925
-msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s with no alternative available."
-msgstr "%1$s는 버전 %2$s때부터 대체할 내용이 없이 <strong>사용중단</strong>되었습니다."
+msgid ""
+"%1$s was called with an argument that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+"%1$s는 버전 %2$s때부터 대체할 내용이 없이 <strong>사용중단</strong>되었습니"
+"다."
 
 #: wp-includes/functions.php:2957
 msgid "(This message was added in version %s.)"
 msgstr "(이 메세지는 버전 %s에서 추가되었습니다.)"
 
 #: wp-includes/functions.php:2958
-msgid "Please see <a href=\"http://codex.wordpress.org/Debugging_in_WordPress\">Debugging in WordPress</a> for more information."
-msgstr "추가 정보는 <a href=\"http://codex.wordpress.org/Debugging_in_WordPress\">워드프레스 디버깅(영문)</a>을 참고하세요."
+msgid ""
+"Please see <a href=\"http://codex.wordpress.org/Debugging_in_WordPress"
+"\">Debugging in WordPress</a> for more information."
+msgstr ""
+"추가 정보는 <a href=\"http://codex.wordpress.org/Debugging_in_WordPress\">워"
+"드프레스 디버깅(영문)</a>을 참고하세요."
 
 #: wp-includes/functions.php:2959
 msgid "%1$s was called <strong>incorrectly</strong>. %2$s %3$s"
@@ -6545,8 +7260,12 @@ msgstr "메뉴얼 오프셋"
 #: wp-includes/functions.wp-styles.php:137
 #: wp-includes/functions.wp-styles.php:159
 #: wp-includes/functions.wp-styles.php:186
-msgid "Scripts and styles should not be registered or enqueued until the %1$s, %2$s, or %3$s hooks."
-msgstr "%1$s, %2$s 또는 %3$s이(가) hook되기 전에는 스크립트와 스타일이 등록되거나 활성화 되면 안됩니다."
+msgid ""
+"Scripts and styles should not be registered or enqueued until the %1$s, "
+"%2$s, or %3$s hooks."
+msgstr ""
+"%1$s, %2$s 또는 %3$s이(가) hook되기 전에는 스크립트와 스타일이 등록되거나 활"
+"성화 되면 안됩니다."
 
 #: wp-includes/general-template.php:162
 msgid "Search for:"
@@ -6587,8 +7306,12 @@ msgid "Site Admin"
 msgstr "사이트 관리"
 
 #: wp-includes/general-template.php:410
-msgid "The <code>%s</code> option is deprecated for the family of <code>bloginfo()</code> functions."
-msgstr "<code>%s</code> 옵션은 <code>bloginfo()</code>기능의 조직을 위해 사용중지되었습니다."
+msgid ""
+"The <code>%s</code> option is deprecated for the family of <code>bloginfo()</"
+"code> functions."
+msgstr ""
+"<code>%s</code> 옵션은 <code>bloginfo()</code>기능의 조직을 위해 사용중지되었"
+"습니다."
 
 #: wp-includes/general-template.php:410
 msgid "Use the <code>%s</code> option instead."
@@ -6683,9 +7406,9 @@ msgid "Insert"
 msgstr "삽입"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:23
-#: wp-includes/js/tinymce/wp-mce-help.php:245 wp-includes/media-template.php:32
-#: wp-includes/script-loader.php:187 wp-includes/script-loader.php:319
-#: wp-login.php:620
+#: wp-includes/js/tinymce/wp-mce-help.php:245
+#: wp-includes/media-template.php:32 wp-includes/script-loader.php:187
+#: wp-includes/script-loader.php:319 wp-login.php:620
 msgid "Close"
 msgstr "닫기"
 
@@ -6708,12 +7431,19 @@ msgid "Copy/Cut/Paste is not available in Mozilla and Firefox."
 msgstr "복사/잘라내기/붙여 넣기 는 모질라와 불여우에서 사용할 수 없습니다."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:28
-msgid "Currently not supported by your browser, use keyboard shortcuts instead."
-msgstr "현재 브라우저에서 지원하지 않습니다, 키보드 바로 가기를 대신 사용하십시오."
+msgid ""
+"Currently not supported by your browser, use keyboard shortcuts instead."
+msgstr ""
+"현재 브라우저에서 지원하지 않습니다, 키보드 바로 가기를 대신 사용하십시오."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:29
-msgid "Sorry, but we have noticed that your popup-blocker has disabled a window that provides application functionality. You will need to disable popup blocking on this site in order to fully utilize this tool."
-msgstr "죄송합니다, 팝업차단으로 인해 프로그램이 동작하는 창을 차단하였습니다. 정상적으로 동작하기 위해서는 이 사이트에서 팝업차단을 해제하여 주십시오."
+msgid ""
+"Sorry, but we have noticed that your popup-blocker has disabled a window "
+"that provides application functionality. You will need to disable popup "
+"blocking on this site in order to fully utilize this tool."
+msgstr ""
+"죄송합니다, 팝업차단으로 인해 프로그램이 동작하는 창을 차단하였습니다. 정상적"
+"으로 동작하기 위해서는 이 사이트에서 팝업차단을 해제하여 주십시오."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:30
 msgid "ERROR: Invalid values entered, these are marked in red."
@@ -7214,12 +7944,21 @@ msgid "Select All"
 msgstr "전체선택"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:172
-msgid "Paste is now in plain text mode. Click again to toggle back to regular paste mode. After you paste something you will be returned to regular paste mode."
-msgstr "이제 붙여넣기는 일반 텍스트 모드에 있습니다. 기본 붙여넣기 모드로 돌아가려면 다시 클릭하십시오. 무엇인가를 붙여넣기를 한 후엔 기본 붙여넣기 모드로 돌아옵니다."
+msgid ""
+"Paste is now in plain text mode. Click again to toggle back to regular paste "
+"mode. After you paste something you will be returned to regular paste mode."
+msgstr ""
+"이제 붙여넣기는 일반 텍스트 모드에 있습니다. 기본 붙여넣기 모드로 돌아가려면 "
+"다시 클릭하십시오. 무엇인가를 붙여넣기를 한 후엔 기본 붙여넣기 모드로 돌아옵"
+"니다."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:173
-msgid "Paste is now in plain text mode. Click again to toggle back to regular paste mode."
-msgstr "이제 붙여넣기는 일반 텍스트 모드에 있습니다. 기본 붙여넣기 모드로 돌아가려면 다시 클릭하십시오."
+msgid ""
+"Paste is now in plain text mode. Click again to toggle back to regular paste "
+"mode."
+msgstr ""
+"이제 붙여넣기는 일반 텍스트 모드에 있습니다. 기본 붙여넣기 모드로 돌아가려면 "
+"다시 클릭하십시오."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:177
 #: wp-includes/js/tinymce/langs/wp-langs.php:179
