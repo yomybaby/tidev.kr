@@ -207,8 +207,8 @@ class Markdownify {
     'style',
     'form',
     'area',
-    'object',
-    'param',
+    //'object',
+    //'param',
     //'iframe',
   );
   /**

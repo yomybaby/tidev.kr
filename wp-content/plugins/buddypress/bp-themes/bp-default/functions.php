@@ -789,7 +789,9 @@ function bp_dtheme_remove_nojs_body_class() {
 add_action( 'bp_before_header', 'bp_dtheme_remove_nojs_body_class' );
 
 
-
+/*
+ * bbpress 허용 태그 추가
+ */
 add_action( 'bbp_kses_allowed_tags','pyg_kses_allowed_tags',999,1);
 function pyg_kses_allowed_tags($input){
 	return array(
